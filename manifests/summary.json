@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "file_count": 267,
+  "total_bytes": 13116264,
+  "extensions": {
+    ".docx": 61,
+    ".md": 141,
+    ".pdf": 64,
+    ".pptx": 1
+  },
+  "over_50_mib": 0,
+  "over_100_mib": 0
+}

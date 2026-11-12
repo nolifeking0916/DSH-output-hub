@@ -1,0 +1,2141 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "key": "bd1971afb90a4fce9c2d2ed02e9a44c6:9cf45f6a013d726def731cd588eccc3a10a38177a3b4053d8c73871fd6a63eda",
+      "artifact_id": "bd1971afb90a4fce9c2d2ed02e9a44c6",
+      "target": "dsh-workspace/work/hr-data-center/outputs/P序列在职清单-20261112.provenance.md",
+      "sha256": "9cf45f6a013d726def731cd588eccc3a10a38177a3b4053d8c73871fd6a63eda",
+      "bytes": 4570,
+      "origin_status": "eligible_reviewed_intake"
+    },
+    {
+      "key": "eba5a79976e145838c301b1cce9dcbea:1cb9dad34bc1036e22a9b67ae98a4197ceedcb85821a0bc3bbef30d9e0600b98",
+      "artifact_id": "eba5a79976e145838c301b1cce9dcbea",
+      "target": "dsh-workspace/work/hr-data-center/outputs/干部管理培训要点-2026-11-12.provenance.md",
+      "sha256": "1cb9dad34bc1036e22a9b67ae98a4197ceedcb85821a0bc3bbef30d9e0600b98",
+      "bytes": 10770,
+      "origin_status": "eligible_reviewed_intake"
+    },
+    {
+      "key": "643e13b8b92b445a808e098b9872e11b:c60f3fdd95559486f9493d5b9b9a7eed06eaa051b267da988cf5086ac987c7ea",
+      "artifact_id": "643e13b8b92b445a808e098b9872e11b",
+      "target": "dsh-workspace/work/hr-data-center/outputs/集团岗位MPO分类统览表-20261112.provenance.md",
+      "sha256": "c60f3fdd95559486f9493d5b9b9a7eed06eaa051b267da988cf5086ac987c7ea",
+      "bytes": 7890,
+      "origin_status": "eligible_reviewed_intake"
+    },
+    {
+      "key": "435a0b00a9be4832aacd5cefe36ece8f:a1ff75ca513bd3e2a40b7a82f876d4380565d98b96d7209340c2f2fb34d859d1",
+      "artifact_id": "435a0b00a9be4832aacd5cefe36ece8f",
+      "target": "hr-knowledge/assets/employee/00-员工版总目录.docx",
+      "sha256": "a1ff75ca513bd3e2a40b7a82f876d4380565d98b96d7209340c2f2fb34d859d1",
+      "bytes": 132800,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "4625310c004f46489efb349c5c290153:d9d812f433501442d26cf5717fadff451fe0b27bcb8e49e229d5abf176773ae5",
+      "artifact_id": "4625310c004f46489efb349c5c290153",
+      "target": "hr-knowledge/assets/employee/00-员工版总目录.pdf",
+      "sha256": "d9d812f433501442d26cf5717fadff451fe0b27bcb8e49e229d5abf176773ae5",
+      "bytes": 216227,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "e57ac9c8223b4708ba80cc93d68bc64c:7faacd3429fbca78a11f247e1cee2cd977dd96eb619127ce4b5b234ce9166ad4",
+      "artifact_id": "e57ac9c8223b4708ba80cc93d68bc64c",
+      "target": "hr-knowledge/assets/employee/第01号-人才招聘与引荐-管理工具细则.docx",
+      "sha256": "7faacd3429fbca78a11f247e1cee2cd977dd96eb619127ce4b5b234ce9166ad4",
+      "bytes": 132064,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "360766c1a380440ebbbe7ad6c9c654ce:fba3d6a1ea3a65a0113d71bb995e00f5a3bbed09c7bcf53b43d15cd0ae58a88c",
+      "artifact_id": "360766c1a380440ebbbe7ad6c9c654ce",
+      "target": "hr-knowledge/assets/employee/第01号-人才招聘与引荐-管理工具细则.pdf",
+      "sha256": "fba3d6a1ea3a65a0113d71bb995e00f5a3bbed09c7bcf53b43d15cd0ae58a88c",
+      "bytes": 169305,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "513e8a299a76485fafe17ea3b9fa1645:fcbcc8857ad6eceb0c1dd4f72419619f5b9d822273e5ef490f4455d298d56d64",
+      "artifact_id": "513e8a299a76485fafe17ea3b9fa1645",
+      "target": "hr-knowledge/assets/employee/第01号-人才招聘与引荐-管理流程细则.docx",
+      "sha256": "fcbcc8857ad6eceb0c1dd4f72419619f5b9d822273e5ef490f4455d298d56d64",
+      "bytes": 132975,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "755260280ce14f71a6f929c0bb30c302:07fad9a284df800915a57e171b7c569397ecfa813688ce4b6571b54d901f8055",
+      "artifact_id": "755260280ce14f71a6f929c0bb30c302",
+      "target": "hr-knowledge/assets/employee/第01号-人才招聘与引荐-管理流程细则.pdf",
+      "sha256": "07fad9a284df800915a57e171b7c569397ecfa813688ce4b6571b54d901f8055",
+      "bytes": 201532,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "45115a6421724ad483541e40d409d3f2:81b6ed21451531ff7f6c4bf6f00c6a1f37ba8e33d37d77c6a960cce1baa3326f",
+      "artifact_id": "45115a6421724ad483541e40d409d3f2",
+      "target": "hr-knowledge/assets/employee/第02号-干部选用与评价-管理工具细则.docx",
+      "sha256": "81b6ed21451531ff7f6c4bf6f00c6a1f37ba8e33d37d77c6a960cce1baa3326f",
+      "bytes": 132109,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "193a0f25cbe4472b93a0e6addd978781:aa79f96ba1fde17115b3a4619958838199f8275f1a074ef911d1e84d0ed62502",
+      "artifact_id": "193a0f25cbe4472b93a0e6addd978781",
+      "target": "hr-knowledge/assets/employee/第02号-干部选用与评价-管理工具细则.pdf",
+      "sha256": "aa79f96ba1fde17115b3a4619958838199f8275f1a074ef911d1e84d0ed62502",
+      "bytes": 171969,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "75e1c699badb4f58a1d8d9d18c55b878:cb49a8ad505a5d55961ff46c0d3d33a26787c806ee926ed4f9f0d4e2ff149270",
+      "artifact_id": "75e1c699badb4f58a1d8d9d18c55b878",
+      "target": "hr-knowledge/assets/employee/第02号-干部选用与评价-管理流程细则.docx",
+      "sha256": "cb49a8ad505a5d55961ff46c0d3d33a26787c806ee926ed4f9f0d4e2ff149270",
+      "bytes": 132959,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "503e36a3a6d34d24a799bc3bc2ecf331:54f0b8720c0fb4bc3b0e6c0193920e644d0427f49d9cc39b45727cc36f0ca031",
+      "artifact_id": "503e36a3a6d34d24a799bc3bc2ecf331",
+      "target": "hr-knowledge/assets/employee/第02号-干部选用与评价-管理流程细则.pdf",
+      "sha256": "54f0b8720c0fb4bc3b0e6c0193920e644d0427f49d9cc39b45727cc36f0ca031",
+      "bytes": 203366,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "5a83d105443f4af48e43a26cad03e9fe:e0b83e7485682cf312b8bb8fd8437844ba769025f1f7538238cc5faa51835e4b",
+      "artifact_id": "5a83d105443f4af48e43a26cad03e9fe",
+      "target": "hr-knowledge/assets/employee/第03号-试用期与入职融入-管理工具细则.docx",
+      "sha256": "e0b83e7485682cf312b8bb8fd8437844ba769025f1f7538238cc5faa51835e4b",
+      "bytes": 132048,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "ee8a1dca12c94a29b48409ee76994557:1b938e66b50325337f7f8d80e9aae6bc6c073f70608aa96a2e3af4c77ced6975",
+      "artifact_id": "ee8a1dca12c94a29b48409ee76994557",
+      "target": "hr-knowledge/assets/employee/第03号-试用期与入职融入-管理工具细则.pdf",
+      "sha256": "1b938e66b50325337f7f8d80e9aae6bc6c073f70608aa96a2e3af4c77ced6975",
+      "bytes": 174948,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "5430453ffb904e979539cc9bda4d17fe:5276676350e812bd091bb34c42eeb8a84fedf606ebe568d4c53307f2b5dbbfa6",
+      "artifact_id": "5430453ffb904e979539cc9bda4d17fe",
+      "target": "hr-knowledge/assets/employee/第03号-试用期与入职融入-管理流程细则.docx",
+      "sha256": "5276676350e812bd091bb34c42eeb8a84fedf606ebe568d4c53307f2b5dbbfa6",
+      "bytes": 133017,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "3bb2317a46404a719f1695ec68f8abb3:586d43330a42aee54ac104b71862a9dab7b1bdfcf1ac3427ab20734798f5efe7",
+      "artifact_id": "3bb2317a46404a719f1695ec68f8abb3",
+      "target": "hr-knowledge/assets/employee/第03号-试用期与入职融入-管理流程细则.pdf",
+      "sha256": "586d43330a42aee54ac104b71862a9dab7b1bdfcf1ac3427ab20734798f5efe7",
+      "bytes": 210097,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "ea85115925c44a8bad48257d08983b90:773047390935cf083b41d6b5c474d1121598e3c7405b04e97060597fd9362183",
+      "artifact_id": "ea85115925c44a8bad48257d08983b90",
+      "target": "hr-knowledge/assets/employee/第04号-中基层干部发展-管理工具细则.docx",
+      "sha256": "773047390935cf083b41d6b5c474d1121598e3c7405b04e97060597fd9362183",
+      "bytes": 131998,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "ff80ed24ef514521b0655306c1faabb5:b0bbeed69ef1c0a82e28e7723c263444bacaaa924f76452bb62162ff02005732",
+      "artifact_id": "ff80ed24ef514521b0655306c1faabb5",
+      "target": "hr-knowledge/assets/employee/第04号-中基层干部发展-管理工具细则.pdf",
+      "sha256": "b0bbeed69ef1c0a82e28e7723c263444bacaaa924f76452bb62162ff02005732",
+      "bytes": 173555,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "9c1c6549b50f46e98851f5b19c236f67:e9a717daad308bccc94d762cd524b5c3c0cce2835a5f6b84017a266210c5d617",
+      "artifact_id": "9c1c6549b50f46e98851f5b19c236f67",
+      "target": "hr-knowledge/assets/employee/第04号-中基层干部发展-管理流程细则.docx",
+      "sha256": "e9a717daad308bccc94d762cd524b5c3c0cce2835a5f6b84017a266210c5d617",
+      "bytes": 133151,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "6f1306d47092431f85d5c687d98bad12:8250712c85cfa74a0b724bd5c510bec85c51d24ede2d3372907e0cb8b345cf22",
+      "artifact_id": "6f1306d47092431f85d5c687d98bad12",
+      "target": "hr-knowledge/assets/employee/第04号-中基层干部发展-管理流程细则.pdf",
+      "sha256": "8250712c85cfa74a0b724bd5c510bec85c51d24ede2d3372907e0cb8b345cf22",
+      "bytes": 217188,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "6897350c345f4fbd9a7b3c6304456124:48dd70ac4dbe700486ec8235a46b37d7dad6129693b0087afe5bd0ece48d2e78",
+      "artifact_id": "6897350c345f4fbd9a7b3c6304456124",
+      "target": "hr-knowledge/assets/employee/第05号-干部保留与激励-管理工具细则.docx",
+      "sha256": "48dd70ac4dbe700486ec8235a46b37d7dad6129693b0087afe5bd0ece48d2e78",
+      "bytes": 133462,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "7263c64022974f58bd00a5818b83aaed:532e7aabab4558941829a020abde4d07860e8158c192f8925b7106d04be21cb1",
+      "artifact_id": "7263c64022974f58bd00a5818b83aaed",
+      "target": "hr-knowledge/assets/employee/第05号-干部保留与激励-管理工具细则.pdf",
+      "sha256": "532e7aabab4558941829a020abde4d07860e8158c192f8925b7106d04be21cb1",
+      "bytes": 255958,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "83f8f2322c3c4907829e1b5beb1f55be:955c264abe63f4927e487e1591a4a5ad8f82b82f7e5df6f830b4566082aad383",
+      "artifact_id": "83f8f2322c3c4907829e1b5beb1f55be",
+      "target": "hr-knowledge/assets/employee/第05号-干部保留与激励-管理流程细则.docx",
+      "sha256": "955c264abe63f4927e487e1591a4a5ad8f82b82f7e5df6f830b4566082aad383",
+      "bytes": 133556,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "f211683890a649c281787d2cdc4d564e:4ba807a4a90b6f27f74103db4ff5795bf4425ace1ef9c80f58a847dc700f6345",
+      "artifact_id": "f211683890a649c281787d2cdc4d564e",
+      "target": "hr-knowledge/assets/employee/第05号-干部保留与激励-管理流程细则.pdf",
+      "sha256": "4ba807a4a90b6f27f74103db4ff5795bf4425ace1ef9c80f58a847dc700f6345",
+      "bytes": 236762,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "04fd609753f84e5bb48c6a684a9f2703:9348cbbb8db2804f210d9044565f2980f251f51797a676a8ac16765d72f88352",
+      "artifact_id": "04fd609753f84e5bb48c6a684a9f2703",
+      "target": "hr-knowledge/assets/employee/第06号-干部离任与洞察-管理工具细则.docx",
+      "sha256": "9348cbbb8db2804f210d9044565f2980f251f51797a676a8ac16765d72f88352",
+      "bytes": 132205,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "b8c8d427dd9a4b79a630fe959ba7a155:13e45b67b6b0dd2881f94125b22ef9f95c78848950b7c0315dd42bdc827b41a8",
+      "artifact_id": "b8c8d427dd9a4b79a630fe959ba7a155",
+      "target": "hr-knowledge/assets/employee/第06号-干部离任与洞察-管理工具细则.pdf",
+      "sha256": "13e45b67b6b0dd2881f94125b22ef9f95c78848950b7c0315dd42bdc827b41a8",
+      "bytes": 174697,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "0fb2d4a8cca24c648e559e12128af5bd:508c813c3b44fac8ea3347abd5d3cc145f5b7f5c9c043ba91c9fa0073e8cdd89",
+      "artifact_id": "0fb2d4a8cca24c648e559e12128af5bd",
+      "target": "hr-knowledge/assets/employee/第06号-干部离任与洞察-管理流程细则.docx",
+      "sha256": "508c813c3b44fac8ea3347abd5d3cc145f5b7f5c9c043ba91c9fa0073e8cdd89",
+      "bytes": 132962,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "b24018b78ecb4f279eb377e71744f08b:b184206ce4b65ce182b5dfcbccf6f05d5d9fc7d0447fe8512330155a74cc9a19",
+      "artifact_id": "b24018b78ecb4f279eb377e71744f08b",
+      "target": "hr-knowledge/assets/employee/第06号-干部离任与洞察-管理流程细则.pdf",
+      "sha256": "b184206ce4b65ce182b5dfcbccf6f05d5d9fc7d0447fe8512330155a74cc9a19",
+      "bytes": 205986,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "d98c02a3218b4f04954927214d71b4c0:598e0920aefe3aaaf0d5fc4c5843cf2c73bccf99da60a215b7857f13c487eb74",
+      "artifact_id": "d98c02a3218b4f04954927214d71b4c0",
+      "target": "hr-knowledge/assets/ppt/干部管理制度新旧对比-20261106.pdf",
+      "sha256": "598e0920aefe3aaaf0d5fc4c5843cf2c73bccf99da60a215b7857f13c487eb74",
+      "bytes": 301837,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "0e5b441b85d640ff88c368dafef240b8:b50db3c11518e032f036ceaee793e7305dce5648214c8f1470904545584803d0",
+      "artifact_id": "0e5b441b85d640ff88c368dafef240b8",
+      "target": "hr-knowledge/assets/ppt/干部管理制度新旧对比-20261106.pptx",
+      "sha256": "b50db3c11518e032f036ceaee793e7305dce5648214c8f1470904545584803d0",
+      "bytes": 35814,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "4379fca23dee4e229d6bf7f9d337a245:d926bde036c5cea38f0af974fb9fd177c8000565b55ffdd20d99753db03fec26",
+      "artifact_id": "4379fca23dee4e229d6bf7f9d337a245",
+      "target": "hr-knowledge/assets/reference/regulation/浙江省企业民主管理条例-官方PDF.pdf",
+      "sha256": "d926bde036c5cea38f0af974fb9fd177c8000565b55ffdd20d99753db03fec26",
+      "bytes": 241557,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "a009688f8f1141568d267776e4a8dfc9:d76b577385ee8f55a9de1cb3b084b3476aae50aab04a07663f2b51b2533521f0",
+      "artifact_id": "a009688f8f1141568d267776e4a8dfc9",
+      "target": "hr-knowledge/assets/reference/regulation/浙江省职工代表大会操作规程试行-浙总工发2014-41号.pdf",
+      "sha256": "d76b577385ee8f55a9de1cb3b084b3476aae50aab04a07663f2b51b2533521f0",
+      "bytes": 380288,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "d1575f651e344c51906e85e03757b517:80c5258f0dc3ba42b6ac57936d565583f196e9a326f0981810b96f16ca835524",
+      "artifact_id": "d1575f651e344c51906e85e03757b517",
+      "target": "hr-knowledge/assets/working/meeting-templates/工会委员选举结果报告-报上级工会（待填）.docx",
+      "sha256": "80c5258f0dc3ba42b6ac57936d565583f196e9a326f0981810b96f16ca835524",
+      "bytes": 37667,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "14348cd57cff41f4b506a5e4672c47d2:8570912f38af08982bdd90af5a3887ae243c6bbf084876c012aa81159a6b5a7a",
+      "artifact_id": "14348cd57cff41f4b506a5e4672c47d2",
+      "target": "hr-knowledge/assets/working/meeting-templates/工会委员选举结果报告-报上级工会（待填）.pdf",
+      "sha256": "8570912f38af08982bdd90af5a3887ae243c6bbf084876c012aa81159a6b5a7a",
+      "bytes": 82730,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "5320c05a3d814367ad8d84b242421274:997330cf259d0f638b9ae96f233c724ee0df4906fef4aeb38333835675aa7774",
+      "artifact_id": "5320c05a3d814367ad8d84b242421274",
+      "target": "hr-knowledge/assets/working/meeting-templates/工会委员选举结果报告-报同级党组织（待填）.docx",
+      "sha256": "997330cf259d0f638b9ae96f233c724ee0df4906fef4aeb38333835675aa7774",
+      "bytes": 37713,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "3c8d4b0a99e64f65923141b22b1a85ef:a492090a3f5d26db9942de2b40b0470783793abf611df57f7136b4fbc079afde",
+      "artifact_id": "3c8d4b0a99e64f65923141b22b1a85ef",
+      "target": "hr-knowledge/assets/working/meeting-templates/工会委员选举结果报告-报同级党组织（待填）.pdf",
+      "sha256": "a492090a3f5d26db9942de2b40b0470783793abf611df57f7136b4fbc079afde",
+      "bytes": 85243,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "b13b1775775b4c3aa01bd352aac8dcc9:98d2c7388faddfac1f4e27fab7ea5ab9dbf114d0978289013dd7f199ad100597",
+      "artifact_id": "b13b1775775b4c3aa01bd352aac8dcc9",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-云上余村演艺分公司-2026-10-30.docx",
+      "sha256": "98d2c7388faddfac1f4e27fab7ea5ab9dbf114d0978289013dd7f199ad100597",
+      "bytes": 37828,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "cc98c868446a48438e4c964fd445e06f:c3e70f72459213c8b3850f7f57a9acaaa7ecb9f4028571f0dbfe0172eda45bb4",
+      "artifact_id": "cc98c868446a48438e4c964fd445e06f",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-云上余村演艺分公司-2026-10-30.pdf",
+      "sha256": "c3e70f72459213c8b3850f7f57a9acaaa7ecb9f4028571f0dbfe0172eda45bb4",
+      "bytes": 83712,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "b2246b3044924e9cbd8cdb8cafe071ef:5007128ad1f3a2783c7dea716735a74df522ac599e8220f08c08e2ccee23ca51",
+      "artifact_id": "b2246b3044924e9cbd8cdb8cafe071ef",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-云上草原商管-2026-10-30.docx",
+      "sha256": "5007128ad1f3a2783c7dea716735a74df522ac599e8220f08c08e2ccee23ca51",
+      "bytes": 37822,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "d3d9f8fab9124c5c933adb81a9fa2a52:436a40e37f7b5f8bca1c3b6ed929d8e9b8a44ca736b40a0d7fb7a7d6de285314",
+      "artifact_id": "d3d9f8fab9124c5c933adb81a9fa2a52",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-云上草原商管-2026-10-30.pdf",
+      "sha256": "436a40e37f7b5f8bca1c3b6ed929d8e9b8a44ca736b40a0d7fb7a7d6de285314",
+      "bytes": 83269,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "c0fb66b5f9e54c5baa7b4652de1bb23e:6c04a7a6da4fa959022ce695a4655f48e25998d6af70154a8808e9fe8750f3ec",
+      "artifact_id": "c0fb66b5f9e54c5baa7b4652de1bb23e",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-云上草原度假村-2026-10-30.docx",
+      "sha256": "6c04a7a6da4fa959022ce695a4655f48e25998d6af70154a8808e9fe8750f3ec",
+      "bytes": 37818,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "16cc0ef55458476098db59c547f1b6ec:3159072fcf89fdaf3cd40b6443e0455e551b639c25aba6fc26fb70cf57a3f9c2",
+      "artifact_id": "16cc0ef55458476098db59c547f1b6ec",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-云上草原度假村-2026-10-30.pdf",
+      "sha256": "3159072fcf89fdaf3cd40b6443e0455e551b639c25aba6fc26fb70cf57a3f9c2",
+      "bytes": 83174,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "5988e0c3ebc24f6a887b174c969ee608:bf3298aceae97d2936482c0c97f1ab92a4ff7e4f739f41c4e420414a40c3c7d8",
+      "artifact_id": "5988e0c3ebc24f6a887b174c969ee608",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-云上草原景区-2026-10-30.docx",
+      "sha256": "bf3298aceae97d2936482c0c97f1ab92a4ff7e4f739f41c4e420414a40c3c7d8",
+      "bytes": 40394,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "5ed796148533448881c74e0067a0f776:816a081a62dbfef6a2266a1787afffaf1b9677a74bbc9eef886f9e88e9656790",
+      "artifact_id": "5ed796148533448881c74e0067a0f776",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-云上草原景区-2026-10-30.pdf",
+      "sha256": "816a081a62dbfef6a2266a1787afffaf1b9677a74bbc9eef886f9e88e9656790",
+      "bytes": 85476,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "1c2ce416c3a7485ca65fec2ee5f09c36:29c827af58e2c7e6ebceee3aa5a22f0b1126b8befe8de83c2ccc6d5c09e9f0ea",
+      "artifact_id": "1c2ce416c3a7485ca65fec2ee5f09c36",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-体育文化-2026-10-30.docx",
+      "sha256": "29c827af58e2c7e6ebceee3aa5a22f0b1126b8befe8de83c2ccc6d5c09e9f0ea",
+      "bytes": 37820,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "3ca136ca92a24eefaa86ac29a9643c3b:ebb10700b72c677796a12346df0b0ca057f5fd9eb6ed6e7fcee625df5a10ce54",
+      "artifact_id": "3ca136ca92a24eefaa86ac29a9643c3b",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-体育文化-2026-10-30.pdf",
+      "sha256": "ebb10700b72c677796a12346df0b0ca057f5fd9eb6ed6e7fcee625df5a10ce54",
+      "bytes": 82776,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "275a1bc6871246dcb5308f826f2156dd:df01a1da51c3d1a77f4378d1ce2c23d95e4c333efd2f31f30868f0cd43c10b32",
+      "artifact_id": "275a1bc6871246dcb5308f826f2156dd",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-工程管理分公司-2026-10-30.docx",
+      "sha256": "df01a1da51c3d1a77f4378d1ce2c23d95e4c333efd2f31f30868f0cd43c10b32",
+      "bytes": 37826,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "e0037d5bcaf04203921edf0ec84f32d3:e029fe7536748b283b49e194a403c456599a7fddc119a49752e6d73f84d44ba3",
+      "artifact_id": "e0037d5bcaf04203921edf0ec84f32d3",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-工程管理分公司-2026-10-30.pdf",
+      "sha256": "e029fe7536748b283b49e194a403c456599a7fddc119a49752e6d73f84d44ba3",
+      "bytes": 83506,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "41df7be3d2884be483604704801dc323:5891604d7c860874b20574675fd30223f9b90bc4f99ddb161eba7a61c896da5c",
+      "artifact_id": "41df7be3d2884be483604704801dc323",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-恐龙酒店-2026-10-30.docx",
+      "sha256": "5891604d7c860874b20574675fd30223f9b90bc4f99ddb161eba7a61c896da5c",
+      "bytes": 37820,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "53cf08a87a4b4d0bb08347bbcc07fdb8:751d8e4c1faca436a3dd4ff7b6595ec22b8967337e6408fbd6d54e1fdc2b5ae8",
+      "artifact_id": "53cf08a87a4b4d0bb08347bbcc07fdb8",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-恐龙酒店-2026-10-30.pdf",
+      "sha256": "751d8e4c1faca436a3dd4ff7b6595ec22b8967337e6408fbd6d54e1fdc2b5ae8",
+      "bytes": 83158,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "c29cab18c75f427bac92706ab520e195:4743c2d904729fc634dea80eef11a3e7148ec5ae3dc4b32323d8c99f407a2461",
+      "artifact_id": "c29cab18c75f427bac92706ab520e195",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-星空天文酒店-2026-10-30.docx",
+      "sha256": "4743c2d904729fc634dea80eef11a3e7148ec5ae3dc4b32323d8c99f407a2461",
+      "bytes": 37826,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "e8a7fe6256fb4fccaeaa0847290992ad:002b03c63059e7d61c96ea05548b67257eabd88693b29fbe9f35730f213098ba",
+      "artifact_id": "e8a7fe6256fb4fccaeaa0847290992ad",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-星空天文酒店-2026-10-30.pdf",
+      "sha256": "002b03c63059e7d61c96ea05548b67257eabd88693b29fbe9f35730f213098ba",
+      "bytes": 83188,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "9460dcdff35a49c5bcc2b5d6b0d4456e:7d21dc9a1ff1302abe67a536a6fa5e77d927d35ff8b3a80e28614108412985c7",
+      "artifact_id": "9460dcdff35a49c5bcc2b5d6b0d4456e",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-景区管理分公司-2026-10-30.docx",
+      "sha256": "7d21dc9a1ff1302abe67a536a6fa5e77d927d35ff8b3a80e28614108412985c7",
+      "bytes": 37827,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "a9d044bdba4c48edaa8ef9c0056024dd:e820a8164c77e14825ff8bac03bb70087eecf3fb3f3611b1a5c437aa72b81509",
+      "artifact_id": "a9d044bdba4c48edaa8ef9c0056024dd",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-景区管理分公司-2026-10-30.pdf",
+      "sha256": "e820a8164c77e14825ff8bac03bb70087eecf3fb3f3611b1a5c437aa72b81509",
+      "bytes": 83689,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "d279158d875a4d329506367d23dea12c:2cfd5721aa181018170155cde401bf0267bb1d980ef57264645ccb1a5cad3721",
+      "artifact_id": "d279158d875a4d329506367d23dea12c",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-熊猫部落-2026-10-30.docx",
+      "sha256": "2cfd5721aa181018170155cde401bf0267bb1d980ef57264645ccb1a5cad3721",
+      "bytes": 37821,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "b7f247a59b8249849c69c3ab676be5c1:d9aad735cf58d87aaca0cc9cef7b7650bd672951fe9e4a844fa34f9bacefea1a",
+      "artifact_id": "b7f247a59b8249849c69c3ab676be5c1",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-熊猫部落-2026-10-30.pdf",
+      "sha256": "d9aad735cf58d87aaca0cc9cef7b7650bd672951fe9e4a844fa34f9bacefea1a",
+      "bytes": 83550,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "f14fb383ae854a298cd84caeb1862153:e962aa4436f9e64a3772cef8906448e473c2c5077bd9401c063f97c616bf834c",
+      "artifact_id": "f14fb383ae854a298cd84caeb1862153",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-研创院-2026-10-30.docx",
+      "sha256": "e962aa4436f9e64a3772cef8906448e473c2c5077bd9401c063f97c616bf834c",
+      "bytes": 37817,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "4404bc4f1a2b4f859cea2588e17ddf37:8d26e7840196000f183095b65957301453cd1677d8caa4dbef6b10a557e04cc2",
+      "artifact_id": "4404bc4f1a2b4f859cea2588e17ddf37",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-研创院-2026-10-30.pdf",
+      "sha256": "8d26e7840196000f183095b65957301453cd1677d8caa4dbef6b10a557e04cc2",
+      "bytes": 82933,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "c8782fca85ef4eda92e008a7b6749088:0cafb593010c9b4f458c17c66e5fc5950c34dc27527b7e784848cc3e2b0bebac",
+      "artifact_id": "c8782fca85ef4eda92e008a7b6749088",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-聚力旅行社-2026-10-30.docx",
+      "sha256": "0cafb593010c9b4f458c17c66e5fc5950c34dc27527b7e784848cc3e2b0bebac",
+      "bytes": 37821,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "e1c5ccdb727242afab4558997913ab30:6e6f2c565ffa52176906f1570a2dd1a75ca408158590ee6d4b9118fcdbafd72a",
+      "artifact_id": "e1c5ccdb727242afab4558997913ab30",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-聚力旅行社-2026-10-30.pdf",
+      "sha256": "6e6f2c565ffa52176906f1570a2dd1a75ca408158590ee6d4b9118fcdbafd72a",
+      "bytes": 83022,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "0c1c61d276044165af5d4d56350d4c9c:b4155c474604f987915d758d2be8b5a5cb865e2f7a2382a8a098403bd54acf38",
+      "artifact_id": "0c1c61d276044165af5d4d56350d4c9c",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-茅山森林世界-2026-10-30.docx",
+      "sha256": "b4155c474604f987915d758d2be8b5a5cb865e2f7a2382a8a098403bd54acf38",
+      "bytes": 37826,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "4ddab8097b7247d88ef13bacfac32da4:efb78709734da7a5447add633a0a2628360a848528239eb8c48f08898fcbc051",
+      "artifact_id": "4ddab8097b7247d88ef13bacfac32da4",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-茅山森林世界-2026-10-30.pdf",
+      "sha256": "efb78709734da7a5447add633a0a2628360a848528239eb8c48f08898fcbc051",
+      "bytes": 83413,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "3db74f57f6c64f6ea9f18a1557b6af2d:e68241d8d98f36b8514dbb9bb764329528426a79d706277a9ebe4f95c2ceb396",
+      "artifact_id": "3db74f57f6c64f6ea9f18a1557b6af2d",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-行政管理中心-2026-10-30.docx",
+      "sha256": "e68241d8d98f36b8514dbb9bb764329528426a79d706277a9ebe4f95c2ceb396",
+      "bytes": 37822,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "4b6f72d25768495c8d54eb942588c922:9c8ee95564ca143ca605375811cbe74df4f10c7039aa83eac8b44c4007e83bc8",
+      "artifact_id": "4b6f72d25768495c8d54eb942588c922",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-行政管理中心-2026-10-30.pdf",
+      "sha256": "9c8ee95564ca143ca605375811cbe74df4f10c7039aa83eac8b44c4007e83bc8",
+      "bytes": 83458,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "5a162c0422154b2db8aa5ab0fa54c1ec:0eb7b6a904b7382c26d46c91e98fc877cc26a4bf18d2ec852d38bc94b4518ed5",
+      "artifact_id": "5a162c0422154b2db8aa5ab0fa54c1ec",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-财务管理中心-2026-10-30.docx",
+      "sha256": "0eb7b6a904b7382c26d46c91e98fc877cc26a4bf18d2ec852d38bc94b4518ed5",
+      "bytes": 37821,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "8a4a7a27442749e482235fba12e34c7d:3c4e129dcfa97c5b199e3a2cd88c1d6aeb4d7639e0bc66ef04008cec170eeae5",
+      "artifact_id": "8a4a7a27442749e482235fba12e34c7d",
+      "target": "hr-knowledge/assets/working/meeting-templates/议题二审议情况报告单-财务管理中心-2026-10-30.pdf",
+      "sha256": "3c4e129dcfa97c5b199e3a2cd88c1d6aeb4d7639e0bc66ef04008cec170eeae5",
+      "bytes": 83475,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "314e349482e4452d87b23d4d9aa9a9dd:af7ebe4fa0bc15b0ad35aa84dd18ac0096faf248efb19f38b915b101d4ed41dc",
+      "artifact_id": "314e349482e4452d87b23d4d9aa9a9dd",
+      "target": "hr-knowledge/assets/working/templates/00 机构填报表使用说明.docx",
+      "sha256": "af7ebe4fa0bc15b0ad35aa84dd18ac0096faf248efb19f38b915b101d4ed41dc",
+      "bytes": 38122,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "d2aa4981c1af40be8c04373b1508ad0c:7d9ddecba3c6b7ad197002f0b93c339e5e40e45c507e1fbbbc535900a4d2db92",
+      "artifact_id": "d2aa4981c1af40be8c04373b1508ad0c",
+      "target": "hr-knowledge/assets/working/templates/00 机构填报表使用说明.pdf",
+      "sha256": "7d9ddecba3c6b7ad197002f0b93c339e5e40e45c507e1fbbbc535900a4d2db92",
+      "bytes": 111633,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "fc7f7fce672b4bc5b4ebb0604ecbf82f:255a36887eece41224731f1929a3dbc7ed9906ad96888917109dad18cd12c932",
+      "artifact_id": "fc7f7fce672b4bc5b4ebb0604ecbf82f",
+      "target": "hr-knowledge/assets/working/templates/1-会前-F10 名额与结构确认表（机构签收）.docx",
+      "sha256": "255a36887eece41224731f1929a3dbc7ed9906ad96888917109dad18cd12c932",
+      "bytes": 37504,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "759f4fa7293d45178547c13d2b95404b:4988dda467b20350838ed90fc551aec2a2e1ff299dfef81ddea4871b0a7e1d97",
+      "artifact_id": "759f4fa7293d45178547c13d2b95404b",
+      "target": "hr-knowledge/assets/working/templates/1-会前-F10 名额与结构确认表（机构签收）.pdf",
+      "sha256": "4988dda467b20350838ed90fc551aec2a2e1ff299dfef81ddea4871b0a7e1d97",
+      "bytes": 68761,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "3b87c6920fc847e7976cf4f9245b1fcb:31bc6830c6355738eea9d93c326c8d3c2edf18a48c7d9578296a97f7502b11b2",
+      "artifact_id": "3b87c6920fc847e7976cf4f9245b1fcb",
+      "target": "hr-knowledge/assets/working/templates/1-会前-F11 候选人提名登记表.docx",
+      "sha256": "31bc6830c6355738eea9d93c326c8d3c2edf18a48c7d9578296a97f7502b11b2",
+      "bytes": 37606,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "5f8b3966c78c4439a6944d6c8386c305:3dfe4df7b0a4ae8d18f801f77e0c0be05538a5173d2a1694a757c3c06f1ec5b8",
+      "artifact_id": "5f8b3966c78c4439a6944d6c8386c305",
+      "target": "hr-knowledge/assets/working/templates/1-会前-F11 候选人提名登记表.pdf",
+      "sha256": "3dfe4df7b0a4ae8d18f801f77e0c0be05538a5173d2a1694a757c3c06f1ec5b8",
+      "bytes": 72714,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "ab3e1cb37d3e4930aadeaea9b9e28635:0e0cd86324d8adc17d23ba5f4ba39b2b102571495ef678e9db57ca4ef797af3f",
+      "artifact_id": "ab3e1cb37d3e4930aadeaea9b9e28635",
+      "target": "hr-knowledge/assets/working/templates/1-会前-F12 代表选举公示情况表.docx",
+      "sha256": "0e0cd86324d8adc17d23ba5f4ba39b2b102571495ef678e9db57ca4ef797af3f",
+      "bytes": 37443,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "dcad61617cb34f61a8ec628ab671f4e3:ac7cc09aa5d754ddb96957d600c61c78c9c5c08fbb260b3e8f01574fa65d7cc3",
+      "artifact_id": "dcad61617cb34f61a8ec628ab671f4e3",
+      "target": "hr-knowledge/assets/working/templates/1-会前-F12 代表选举公示情况表.pdf",
+      "sha256": "ac7cc09aa5d754ddb96957d600c61c78c9c5c08fbb260b3e8f01574fa65d7cc3",
+      "bytes": 63016,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "02ed0ba0e5184104ab4fd60895b358cd:b0a7480889f0f9cfe82fd38963fab80116f868ec334be7aface28a06ec862667",
+      "artifact_id": "02ed0ba0e5184104ab4fd60895b358cd",
+      "target": "hr-knowledge/assets/working/templates/1-会前-F20 会议通知签收-预告回执.docx",
+      "sha256": "b0a7480889f0f9cfe82fd38963fab80116f868ec334be7aface28a06ec862667",
+      "bytes": 37461,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "4dcb78124bff4a549a8a5138e885c7f5:5b91afad3c14b6128c24d7836cce94307e0265f00baa07f047e33dcf63417e82",
+      "artifact_id": "4dcb78124bff4a549a8a5138e885c7f5",
+      "target": "hr-knowledge/assets/working/templates/1-会前-F20 会议通知签收-预告回执.pdf",
+      "sha256": "5b91afad3c14b6128c24d7836cce94307e0265f00baa07f047e33dcf63417e82",
+      "bytes": 68674,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "486ae39fae644eb59299cfc8e4d577ec:57464f191409f4274264de72f8b91c7c1761cf0ca0f320c14ccbeb09ee694616",
+      "artifact_id": "486ae39fae644eb59299cfc8e4d577ec",
+      "target": "hr-knowledge/assets/working/templates/1-会前-F21 代表参会预回执.docx",
+      "sha256": "57464f191409f4274264de72f8b91c7c1761cf0ca0f320c14ccbeb09ee694616",
+      "bytes": 37508,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "6f6b429858f84675b5ce370f100d91e4:b81ea8af368efe4e22a5c1c380e9adc5619e479ad210652c2730de02bb79ad74",
+      "artifact_id": "6f6b429858f84675b5ce370f100d91e4",
+      "target": "hr-knowledge/assets/working/templates/1-会前-F21 代表参会预回执.pdf",
+      "sha256": "b81ea8af368efe4e22a5c1c380e9adc5619e479ad210652c2730de02bb79ad74",
+      "bytes": 68225,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "69b5348e939c4d6cbd948356d0bd956e:dfc00772ac3d1da9551469ad4bc86c8f65d054d895f3bbc5b7dcd964dfb73b3b",
+      "artifact_id": "69b5348e939c4d6cbd948356d0bd956e",
+      "target": "hr-knowledge/assets/working/templates/1-会前-F22 材料讨论意见汇总表.docx",
+      "sha256": "dfc00772ac3d1da9551469ad4bc86c8f65d054d895f3bbc5b7dcd964dfb73b3b",
+      "bytes": 37612,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "8b0f5de4d7db4411992e93a1aed8f6e1:f3620663651695944a58502a995c1cafb127803d99a49ca22287f0b23a42ebe0",
+      "artifact_id": "8b0f5de4d7db4411992e93a1aed8f6e1",
+      "target": "hr-knowledge/assets/working/templates/1-会前-F22 材料讨论意见汇总表.pdf",
+      "sha256": "f3620663651695944a58502a995c1cafb127803d99a49ca22287f0b23a42ebe0",
+      "bytes": 77778,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "d720cb937b5444a18debf0597e0aee00:1fa4731c5657bf9d045d5ba014d83cd2c7d9ef6c590d2c1f79ff2b64d8ca09e1",
+      "artifact_id": "d720cb937b5444a18debf0597e0aee00",
+      "target": "hr-knowledge/assets/working/templates/1-会前-F24 职工提案征集表.docx",
+      "sha256": "1fa4731c5657bf9d045d5ba014d83cd2c7d9ef6c590d2c1f79ff2b64d8ca09e1",
+      "bytes": 37527,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "781b3a881e654e5d85f5671fe4c77c29:edb506a5d8e10e847f5f84dc1c3472af98929c97b8694b470a6fdea5a633a204",
+      "artifact_id": "781b3a881e654e5d85f5671fe4c77c29",
+      "target": "hr-knowledge/assets/working/templates/1-会前-F24 职工提案征集表.pdf",
+      "sha256": "edb506a5d8e10e847f5f84dc1c3472af98929c97b8694b470a6fdea5a633a204",
+      "bytes": 71185,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "160b950ea7104958a70cdd96c2fc5177:75bf3e443d9513e328e3d5ece7251c5fc1d7666f203f690e5bafed80e91a6d12",
+      "artifact_id": "160b950ea7104958a70cdd96c2fc5177",
+      "target": "hr-knowledge/assets/working/templates/1-会前-F25 机构提案初核清单.docx",
+      "sha256": "75bf3e443d9513e328e3d5ece7251c5fc1d7666f203f690e5bafed80e91a6d12",
+      "bytes": 37545,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "bc1df0e250dc4cd6aa8180b7ccc1692c:3602476058d95d157fe2452fdf01e63fbde98912d6f63803a680df07d24775d0",
+      "artifact_id": "bc1df0e250dc4cd6aa8180b7ccc1692c",
+      "target": "hr-knowledge/assets/working/templates/1-会前-F25 机构提案初核清单.pdf",
+      "sha256": "3602476058d95d157fe2452fdf01e63fbde98912d6f63803a680df07d24775d0",
+      "bytes": 67493,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "b2696747a80b40c6b96172d6d57371c8:9167c0a2815a5bfba7ba12e72b29954e1cadff468db1f7d440aebd8b5a5850b5",
+      "artifact_id": "b2696747a80b40c6b96172d6d57371c8",
+      "target": "hr-knowledge/assets/working/templates/1-会前-F30 正式参会回执-请假报备表.docx",
+      "sha256": "9167c0a2815a5bfba7ba12e72b29954e1cadff468db1f7d440aebd8b5a5850b5",
+      "bytes": 37530,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "6a441e0f9b90472081a9df7c3f7da437:7f3d894793f5b7bda52570ccafc3d7e0778099f50ba7d1a39c3cb6cb0084f0ac",
+      "artifact_id": "6a441e0f9b90472081a9df7c3f7da437",
+      "target": "hr-knowledge/assets/working/templates/1-会前-F30 正式参会回执-请假报备表.pdf",
+      "sha256": "7f3d894793f5b7bda52570ccafc3d7e0778099f50ba7d1a39c3cb6cb0084f0ac",
+      "bytes": 68065,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "6ee48ebfcf6d494fa12c81137bde1ee2:7a6a365bb2e471b449c40883cdb9975f1e559e71c71410eb51cd2de0a173dc6b",
+      "artifact_id": "6ee48ebfcf6d494fa12c81137bde1ee2",
+      "target": "hr-knowledge/assets/working/templates/2-会当天-F13 无记名投票结果表.docx",
+      "sha256": "7a6a365bb2e471b449c40883cdb9975f1e559e71c71410eb51cd2de0a173dc6b",
+      "bytes": 37630,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "a2845aa79478460f8b4de5d0fa85c17c:9a6b8a62ae94d0340a3429e311b09464f1a70900c7988128bc3696b38ab4d262",
+      "artifact_id": "a2845aa79478460f8b4de5d0fa85c17c",
+      "target": "hr-knowledge/assets/working/templates/2-会当天-F13 无记名投票结果表.pdf",
+      "sha256": "9a6b8a62ae94d0340a3429e311b09464f1a70900c7988128bc3696b38ab4d262",
+      "bytes": 75710,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "69057b19976e469783bc86b209b9012f:2e945c7c3406f9f5fe71d97747ece50f30bac2198d9bc1909b37e9453dff3ed5",
+      "artifact_id": "69057b19976e469783bc86b209b9012f",
+      "target": "hr-knowledge/assets/working/templates/2-会当天-F14 本机构选举情况报告.docx",
+      "sha256": "2e945c7c3406f9f5fe71d97747ece50f30bac2198d9bc1909b37e9453dff3ed5",
+      "bytes": 37544,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "6ea7593b891643c68aaa15eb02dcaa9a:8fcb28bc8943bbe8d49d4b7ea674c115a6b1253c188d9dcd537f193e69260f39",
+      "artifact_id": "6ea7593b891643c68aaa15eb02dcaa9a",
+      "target": "hr-knowledge/assets/working/templates/2-会当天-F14 本机构选举情况报告.pdf",
+      "sha256": "8fcb28bc8943bbe8d49d4b7ea674c115a6b1253c188d9dcd537f193e69260f39",
+      "bytes": 73012,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "f3e5c5511325467386ac7520d3b0ae35:b781b31d03b03c61ddb747a7f5d0c79cd2e251dd1bb94f96713b287070d51b37",
+      "artifact_id": "f3e5c5511325467386ac7520d3b0ae35",
+      "target": "hr-knowledge/assets/working/templates/2-会当天-F15 当选代表名单.docx",
+      "sha256": "b781b31d03b03c61ddb747a7f5d0c79cd2e251dd1bb94f96713b287070d51b37",
+      "bytes": 37561,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "4ccbaeb2a62e4ce1ba1e50ed0a7a87b6:0663c14d358a01294b3861796d2855a9d28f80f897132823f10e5261d49d5405",
+      "artifact_id": "4ccbaeb2a62e4ce1ba1e50ed0a7a87b6",
+      "target": "hr-knowledge/assets/working/templates/2-会当天-F15 当选代表名单.pdf",
+      "sha256": "0663c14d358a01294b3861796d2855a9d28f80f897132823f10e5261d49d5405",
+      "bytes": 68531,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "d20bf5b171054301a381f16f94f7080e:eb512d6608965f43b4d27ad5b7cd024ec2cf846060c7ff68e9273032045197d2",
+      "artifact_id": "d20bf5b171054301a381f16f94f7080e",
+      "target": "hr-knowledge/assets/working/templates/3-会后-F40 决议公示反馈表.docx",
+      "sha256": "eb512d6608965f43b4d27ad5b7cd024ec2cf846060c7ff68e9273032045197d2",
+      "bytes": 37403,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "a7b773a0d0ab47468894996f4648226d:569a0ad50ee8d2539cf826d5d86bd6f1a8637f2f4ed6bc68e2a53a774c730509",
+      "artifact_id": "a7b773a0d0ab47468894996f4648226d",
+      "target": "hr-knowledge/assets/working/templates/3-会后-F40 决议公示反馈表.pdf",
+      "sha256": "569a0ad50ee8d2539cf826d5d86bd6f1a8637f2f4ed6bc68e2a53a774c730509",
+      "bytes": 62043,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "6dbc3183d14a4776acd3c76a49768472:ad738bd56b34378ece6f1b7d154a6211397ade7fcd49ceea0f5629fcc6d824a2",
+      "artifact_id": "6dbc3183d14a4776acd3c76a49768472",
+      "target": "hr-knowledge/assets/working/templates/3-会后-F42 决议落实进展反馈表.docx",
+      "sha256": "ad738bd56b34378ece6f1b7d154a6211397ade7fcd49ceea0f5629fcc6d824a2",
+      "bytes": 37469,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "9b374191d03041d59c7ae64eadde1a28:6584ea60152553b4e35cc496922517323ae03111044488251f40ed46fb46cb5a",
+      "artifact_id": "9b374191d03041d59c7ae64eadde1a28",
+      "target": "hr-knowledge/assets/working/templates/3-会后-F42 决议落实进展反馈表.pdf",
+      "sha256": "6584ea60152553b4e35cc496922517323ae03111044488251f40ed46fb46cb5a",
+      "bytes": 63259,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "4435250421ab4a53a9c2edcc43314af9:d36bc00f1aa6c57c6bedd13071449370b458b94239129baa6b950c21a6e520ff",
+      "artifact_id": "4435250421ab4a53a9c2edcc43314af9",
+      "target": "hr-knowledge/assets/working/templates/4-任期中-F50 代表变动登记表.docx",
+      "sha256": "d36bc00f1aa6c57c6bedd13071449370b458b94239129baa6b950c21a6e520ff",
+      "bytes": 37550,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "80c35dd53fb54b6387f191b0da4647ad:0787fe8c76dbfcb2090ab1161e317a014dc0110d3187787d4d9cb04c6e01cecf",
+      "artifact_id": "80c35dd53fb54b6387f191b0da4647ad",
+      "target": "hr-knowledge/assets/working/templates/4-任期中-F50 代表变动登记表.pdf",
+      "sha256": "0787fe8c76dbfcb2090ab1161e317a014dc0110d3187787d4d9cb04c6e01cecf",
+      "bytes": 67359,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "5e590d4ba9ab4899b05e1b462f5af465:c1c508e99c7d97a164a646e7d150597128614d88d8a7be300e665728478bae2c",
+      "artifact_id": "5e590d4ba9ab4899b05e1b462f5af465",
+      "target": "hr-knowledge/assets/working/templates/4-任期中-F51 补选申请表.docx",
+      "sha256": "c1c508e99c7d97a164a646e7d150597128614d88d8a7be300e665728478bae2c",
+      "bytes": 37432,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "595b2c476d7a4ad4ae49a5247dad2718:1576677b779afb7daa57da7b7d6a3c4e47e3e466bb6720e83b59fd12a77a3885",
+      "artifact_id": "595b2c476d7a4ad4ae49a5247dad2718",
+      "target": "hr-knowledge/assets/working/templates/4-任期中-F51 补选申请表.pdf",
+      "sha256": "1576677b779afb7daa57da7b7d6a3c4e47e3e466bb6720e83b59fd12a77a3885",
+      "bytes": 62601,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "218db28c192d4e78a3abc74c62a886c8:8f5777e8842431aaa250be0b4c896818386fe25e0350bb014eb84e8029c07103",
+      "artifact_id": "218db28c192d4e78a3abc74c62a886c8",
+      "target": "hr-knowledge/assets/working/templates/4-任期中-F52 补选结果表.docx",
+      "sha256": "8f5777e8842431aaa250be0b4c896818386fe25e0350bb014eb84e8029c07103",
+      "bytes": 37530,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "edfef1c61aab410489e6adc98314cf85:132fd3a803cdfbd40e0bfd03e56624742554c14827b8af4b25e8baed34ae6f82",
+      "artifact_id": "edfef1c61aab410489e6adc98314cf85",
+      "target": "hr-knowledge/assets/working/templates/4-任期中-F52 补选结果表.pdf",
+      "sha256": "132fd3a803cdfbd40e0bfd03e56624742554c14827b8af4b25e8baed34ae6f82",
+      "bytes": 67997,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "12afca17a8f041f697ee4e54e78e2a71:3062ce83867314a0e78b8ce0fca2f83737d675afac99b1d9e6ab1b1d9779ce7f",
+      "artifact_id": "12afca17a8f041f697ee4e54e78e2a71",
+      "target": "hr-knowledge/docs/current/employee/00-员工版总目录.md",
+      "sha256": "3062ce83867314a0e78b8ce0fca2f83737d675afac99b1d9e6ab1b1d9779ce7f",
+      "bytes": 4255,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "1b9553cd9c4f4c8c8bc9d669c489d9b5:b7b093cb58ffa2fd3d0c48224b3ed3f6e94d27085cc4c908f464dc30f9221e61",
+      "artifact_id": "1b9553cd9c4f4c8c8bc9d669c489d9b5",
+      "target": "hr-knowledge/docs/current/employee/第01号-人才招聘与引荐-管理工具细则.md",
+      "sha256": "b7b093cb58ffa2fd3d0c48224b3ed3f6e94d27085cc4c908f464dc30f9221e61",
+      "bytes": 3190,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "a959ffb7cc844e6ca40b9ff2457e646f:c769697d870938ec5f580aa2ab94f0e4a84678a6b6434f8917a757422b36f575",
+      "artifact_id": "a959ffb7cc844e6ca40b9ff2457e646f",
+      "target": "hr-knowledge/docs/current/employee/第01号-人才招聘与引荐-管理流程细则.md",
+      "sha256": "c769697d870938ec5f580aa2ab94f0e4a84678a6b6434f8917a757422b36f575",
+      "bytes": 5466,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "4f0326c25519473a9af90bdd62b19b14:124c334f327ab40aa8aebaa4cbb2a7de12a41137cfb1cc5f546a2398727e50af",
+      "artifact_id": "4f0326c25519473a9af90bdd62b19b14",
+      "target": "hr-knowledge/docs/current/employee/第02号-干部选用与评价-管理工具细则.md",
+      "sha256": "124c334f327ab40aa8aebaa4cbb2a7de12a41137cfb1cc5f546a2398727e50af",
+      "bytes": 3337,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "e19b2dd6c46d49128c421f7e254980bd:c03a5771561985c0fe2963e6dac0dc3625eadf92bcd22de8998cc70c8a16be67",
+      "artifact_id": "e19b2dd6c46d49128c421f7e254980bd",
+      "target": "hr-knowledge/docs/current/employee/第02号-干部选用与评价-管理流程细则.md",
+      "sha256": "c03a5771561985c0fe2963e6dac0dc3625eadf92bcd22de8998cc70c8a16be67",
+      "bytes": 5172,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "5bc9f7f6f98e4263aa02798ea3bd4456:b02c885ddc84c7521aa55e84b6668654539073e7984533febe46aae41dbdf990",
+      "artifact_id": "5bc9f7f6f98e4263aa02798ea3bd4456",
+      "target": "hr-knowledge/docs/current/employee/第03号-试用期与入职融入-管理工具细则.md",
+      "sha256": "b02c885ddc84c7521aa55e84b6668654539073e7984533febe46aae41dbdf990",
+      "bytes": 3400,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "6da12136b49148e5a0b515ffbc11051d:4ef36cf7fd65a3244720e3760e56008c2c65fa4dca0ca8615de8f8e64e036836",
+      "artifact_id": "6da12136b49148e5a0b515ffbc11051d",
+      "target": "hr-knowledge/docs/current/employee/第03号-试用期与入职融入-管理流程细则.md",
+      "sha256": "4ef36cf7fd65a3244720e3760e56008c2c65fa4dca0ca8615de8f8e64e036836",
+      "bytes": 5774,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "aec0a531915e4698b0ef9fdf363f82b3:98d1c0488a337fdd529754390b1f26f9c3570098949e300f5604687d41e0eecd",
+      "artifact_id": "aec0a531915e4698b0ef9fdf363f82b3",
+      "target": "hr-knowledge/docs/current/employee/第04号-中基层干部发展-管理工具细则.md",
+      "sha256": "98d1c0488a337fdd529754390b1f26f9c3570098949e300f5604687d41e0eecd",
+      "bytes": 2939,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "b5e37103cabe4f5396f4d021f9e6d6d9:ac0319c2d19403a79cce23ab23f11a86aec38964f9ab83ccbabfe28e82a810c0",
+      "artifact_id": "b5e37103cabe4f5396f4d021f9e6d6d9",
+      "target": "hr-knowledge/docs/current/employee/第04号-中基层干部发展-管理流程细则.md",
+      "sha256": "ac0319c2d19403a79cce23ab23f11a86aec38964f9ab83ccbabfe28e82a810c0",
+      "bytes": 5766,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "a5a9465804514db591c08ffc3221e86e:eaa852ac52e9697849bfaf4294de390d2b2b135bdaf099a559cb8944053579a7",
+      "artifact_id": "a5a9465804514db591c08ffc3221e86e",
+      "target": "hr-knowledge/docs/current/employee/第05号-干部保留与激励-管理工具细则.md",
+      "sha256": "eaa852ac52e9697849bfaf4294de390d2b2b135bdaf099a559cb8944053579a7",
+      "bytes": 4970,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "9e0c78e3ba9441b89919611555ec3049:ee7796e55dbd8a6128fbab1a9ceedc7f9695a09dcc4d6938b556963642217ab7",
+      "artifact_id": "9e0c78e3ba9441b89919611555ec3049",
+      "target": "hr-knowledge/docs/current/employee/第05号-干部保留与激励-管理流程细则.md",
+      "sha256": "ee7796e55dbd8a6128fbab1a9ceedc7f9695a09dcc4d6938b556963642217ab7",
+      "bytes": 6824,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "12394e0fc1a643e381b3474b82fb398d:a2486a0143afd6bf1486a35ae7bdd9dfffd73d45404935ac79155841a2913146",
+      "artifact_id": "12394e0fc1a643e381b3474b82fb398d",
+      "target": "hr-knowledge/docs/current/employee/第06号-干部离任与洞察-管理工具细则.md",
+      "sha256": "a2486a0143afd6bf1486a35ae7bdd9dfffd73d45404935ac79155841a2913146",
+      "bytes": 3504,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "5e07b089d47e4b6b93eba60ea48f6163:57ccb478ae6c6d926a6527f31e0fb7acf2d2a1cf6730ef5d28760aad89f16578",
+      "artifact_id": "5e07b089d47e4b6b93eba60ea48f6163",
+      "target": "hr-knowledge/docs/current/employee/第06号-干部离任与洞察-管理流程细则.md",
+      "sha256": "57ccb478ae6c6d926a6527f31e0fb7acf2d2a1cf6730ef5d28760aad89f16578",
+      "bytes": 5844,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "1884f3858c334f589068b9065d3f51cb:fa1bef2a6ebc75dce5179273035ce827a05c21ef0f0dc6a9c4771dfa50c62374",
+      "artifact_id": "1884f3858c334f589068b9065d3f51cb",
+      "target": "hr-knowledge/docs/current/final/云上文旅集团人事档案管理办法.final.md",
+      "sha256": "fa1bef2a6ebc75dce5179273035ce827a05c21ef0f0dc6a9c4771dfa50c62374",
+      "bytes": 1355,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "8f2559a0aa0d48cabe8203141bfe99ca:67f65f42a0538aec71293c38f72d83ecb98654701305fc3f559f7bf30ba7d1b7",
+      "artifact_id": "8f2559a0aa0d48cabe8203141bfe99ca",
+      "target": "hr-knowledge/docs/current/final/关于召开第四届第一次工会会员代表大会的通知-2026-10-29.final.md",
+      "sha256": "67f65f42a0538aec71293c38f72d83ecb98654701305fc3f559f7bf30ba7d1b7",
+      "bytes": 1409,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "ad4d69940db44f9582272fa98ecab5f7:cb233408f658d225138d9f45bb6d8d0b325eb55ebe326f2f8a538e51b4623a97",
+      "artifact_id": "ad4d69940db44f9582272fa98ecab5f7",
+      "target": "hr-knowledge/docs/current/final/关于召开职工代表大会的通知-2026-10-28.final.md",
+      "sha256": "cb233408f658d225138d9f45bb6d8d0b325eb55ebe326f2f8a538e51b4623a97",
+      "bytes": 4930,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "ec6467d4bb884f05a60b96b23dc49485:2b9cd24b5dfab0c4200b163318919c5ec55a701f777d4ce0f0394f5d55f9e73a",
+      "artifact_id": "ec6467d4bb884f05a60b96b23dc49485",
+      "target": "hr-knowledge/docs/current/final/关于规范文件归档管理的通知.final.md",
+      "sha256": "2b9cd24b5dfab0c4200b163318919c5ec55a701f777d4ce0f0394f5d55f9e73a",
+      "bytes": 939,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "376cbe1278494a80ba4a65c5c79e2220:0778145fcb732744908ac3ff1d9c9ee9b065cafedc77c6e40677c95c0f51721e",
+      "artifact_id": "376cbe1278494a80ba4a65c5c79e2220",
+      "target": "hr-knowledge/docs/current/final/职代会代表选举办法-2026-10-28.final.md",
+      "sha256": "0778145fcb732744908ac3ff1d9c9ee9b065cafedc77c6e40677c95c0f51721e",
+      "bytes": 11082,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "7daea8d7a0dd4f8fa050086db60f92db:f4aa9ab5635ed7060e2a9a22ff9f00e8c2840bf13c88cdfce653cfaca8636f19",
+      "artifact_id": "7daea8d7a0dd4f8fa050086db60f92db",
+      "target": "hr-knowledge/docs/current/final/职代会报备件-2026-10-28.final.md",
+      "sha256": "f4aa9ab5635ed7060e2a9a22ff9f00e8c2840bf13c88cdfce653cfaca8636f19",
+      "bytes": 7600,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "9b72e1386aa14c3493fa5e24a3f54b34:061e0d41d912b84821854c8360e3cdb94593f85be004b9fa90c615842cd4b5bc",
+      "artifact_id": "9b72e1386aa14c3493fa5e24a3f54b34",
+      "target": "hr-knowledge/docs/current/final/职工代表大会拟审议议案清单-2026-10-28.final.md",
+      "sha256": "061e0d41d912b84821854c8360e3cdb94593f85be004b9fa90c615842cd4b5bc",
+      "bytes": 2035,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "f59ffc819271408c92a43e32862b88e1:9bd1777c549961fd0c00ebc29d027acc363f62d3e460eca02494b8478cbda035",
+      "artifact_id": "f59ffc819271408c92a43e32862b88e1",
+      "target": "hr-knowledge/docs/current/final/附件五-结构比例测算表-2026-10-28.final.md",
+      "sha256": "9bd1777c549961fd0c00ebc29d027acc363f62d3e460eca02494b8478cbda035",
+      "bytes": 4406,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "f3a85ef4deac4960b32e7c22977f20b1:a81f29616c88fea1b5c3c0a20f5bbcf5c908133070b9fdaea0d4813a1a1b1e7e",
+      "artifact_id": "f3a85ef4deac4960b32e7c22977f20b1",
+      "target": "hr-knowledge/docs/current/final/附件六-职工总数口径说明-2026-10-28.final.md",
+      "sha256": "a81f29616c88fea1b5c3c0a20f5bbcf5c908133070b9fdaea0d4813a1a1b1e7e",
+      "bytes": 1086,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "28ca67ae3de447cdaab772c2b3a820eb:3d4583accdd59962ec4b1ba9b6629b28fda7482531072c34d04979d70330ad96",
+      "artifact_id": "28ca67ae3de447cdaab772c2b3a820eb",
+      "target": "hr-knowledge/docs/current/ppt/PPT页面文案-20261106.md",
+      "sha256": "3d4583accdd59962ec4b1ba9b6629b28fda7482531072c34d04979d70330ad96",
+      "bytes": 8052,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "10f1a159c61d4f0fb7d68bc0e319a650:cfdaee16a1e37ee1eae4516224d15279d1c38f4c112ffa352d3bb16ee200cec8",
+      "artifact_id": "10f1a159c61d4f0fb7d68bc0e319a650",
+      "target": "hr-knowledge/docs/evidence/employee/_交付清单-甲案改名-20261106.md",
+      "sha256": "cfdaee16a1e37ee1eae4516224d15279d1c38f4c112ffa352d3bb16ee200cec8",
+      "bytes": 1997,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "6c8aab2584804175a9c216c2eca97f46:6f5e5abffcbba344e0e91dfb99a18ff958abde2503c8d8c74bf476eba004810b",
+      "artifact_id": "6c8aab2584804175a9c216c2eca97f46",
+      "target": "hr-knowledge/docs/evidence/employee/_秘书审校结案总单-员工版-20261106.md",
+      "sha256": "6f5e5abffcbba344e0e91dfb99a18ff958abde2503c8d8c74bf476eba004810b",
+      "bytes": 6586,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "510fea1995f148dabdaf9214d71438cd:9cadbc17b2efb2a91b8c497da89a20a5f59c71f7c36eda1190eef8b9cc523850",
+      "artifact_id": "510fea1995f148dabdaf9214d71438cd",
+      "target": "hr-knowledge/docs/evidence/employee/_秘书终审回执-员工版docx正式套-甲案改名-20261106.md",
+      "sha256": "9cadbc17b2efb2a91b8c497da89a20a5f59c71f7c36eda1190eef8b9cc523850",
+      "bytes": 7704,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "470800e7a1664bfcb2a9b1fa23da6a2b:95bfde132d2c3ae5fb61696538dab468dc7f19b7b6a1711883dd2ab4b138c8f9",
+      "artifact_id": "470800e7a1664bfcb2a9b1fa23da6a2b",
+      "target": "hr-knowledge/docs/evidence/final/2026集团招聘进度汇报-2026-11-08.provenance.md",
+      "sha256": "95bfde132d2c3ae5fb61696538dab468dc7f19b7b6a1711883dd2ab4b138c8f9",
+      "bytes": 4023,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "18c9813034fd4ffb896afeb11f94457b:51fb3795188c5e95f19667dfeb0c63fb5fee86b2418a06c429a768447f722c0b",
+      "artifact_id": "18c9813034fd4ffb896afeb11f94457b",
+      "target": "hr-knowledge/docs/evidence/nested/旧件留档/关于召开职工代表大会的通知-2026-10-28.final.md",
+      "sha256": "51fb3795188c5e95f19667dfeb0c63fb5fee86b2418a06c429a768447f722c0b",
+      "bytes": 4760,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "41404cc43c3a42e987285ab80b9754bb:47f88b409bfb83e32de11522da10e7c419104ccfa2ab3660fb1180dd3eb306dd",
+      "artifact_id": "41404cc43c3a42e987285ab80b9754bb",
+      "target": "hr-knowledge/docs/evidence/nested/旧件留档/职代会代表选举办法-2026-10-28.final.md",
+      "sha256": "47f88b409bfb83e32de11522da10e7c419104ccfa2ab3660fb1180dd3eb306dd",
+      "bytes": 10536,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "533e80a5ea28459280a59fd6fb33e8f3:e13f814187350f8d8c49324d93e7247024c2d823a0b3b9c29ba84fc6f7286849",
+      "artifact_id": "533e80a5ea28459280a59fd6fb33e8f3",
+      "target": "hr-knowledge/docs/evidence/nested/旧件留档/职代会报备件-2026-10-28.final.md",
+      "sha256": "e13f814187350f8d8c49324d93e7247024c2d823a0b3b9c29ba84fc6f7286849",
+      "bytes": 6331,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "6d777747bb1e466c8f6430154dfc3d55:d8f0e3983e7a088775bec5be3115d20364e75d92f3c948a0af38874882c0b63b",
+      "artifact_id": "6d777747bb1e466c8f6430154dfc3d55",
+      "target": "hr-knowledge/docs/evidence/nested/旧件留档/职工代表大会拟审议议案清单-2026-10-28.final.md",
+      "sha256": "d8f0e3983e7a088775bec5be3115d20364e75d92f3c948a0af38874882c0b63b",
+      "bytes": 1955,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "8c03aadb34d549c88be4d8c78407a9e0:9cf82c0dffd477595476325a76e0ea05398492a023be0dce475a25f009384b73",
+      "artifact_id": "8c03aadb34d549c88be4d8c78407a9e0",
+      "target": "hr-knowledge/docs/evidence/ppt/00-数量优化计算底稿-2026-11-06.md",
+      "sha256": "9cf82c0dffd477595476325a76e0ea05398492a023be0dce475a25f009384b73",
+      "bytes": 9750,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "02308bb43d784fcdbeaa241548241546:d19dac05ba47ad4a3957b5d41c1b8f66a57bc4d5ccc9cd38f985dbea41736ab6",
+      "artifact_id": "02308bb43d784fcdbeaa241548241546",
+      "target": "hr-knowledge/docs/evidence/ppt/02-PPT数字清单-2026-11-06.md",
+      "sha256": "d19dac05ba47ad4a3957b5d41c1b8f66a57bc4d5ccc9cd38f985dbea41736ab6",
+      "bytes": 7172,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "a9276d634cb94cebbff6eedece2052e5:6c248e8cc95a189021bbbd33b4884acc30c01d390410d2c1bbda35326f2c22b1",
+      "artifact_id": "a9276d634cb94cebbff6eedece2052e5",
+      "target": "hr-knowledge/docs/evidence/ppt/03-独立复算回执-数量优化-2026-11-06.md",
+      "sha256": "6c248e8cc95a189021bbbd33b4884acc30c01d390410d2c1bbda35326f2c22b1",
+      "bytes": 5673,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "e1248abc7f0c4788a41825aa24a7aebc:d6fbf46a66f236f004313dd4a29d7496e86dd14bdc55af39037d2c6adf9c3022",
+      "artifact_id": "e1248abc7f0c4788a41825aa24a7aebc",
+      "target": "hr-knowledge/docs/evidence/ppt/_秘书终审回执-PPT成品-20261106.md",
+      "sha256": "d6fbf46a66f236f004313dd4a29d7496e86dd14bdc55af39037d2c6adf9c3022",
+      "bytes": 19400,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "2e110d522d454059aa99cf2c29410c72:b86e4835068e30b680078b8291e6d6ace6b6ebc54fdf58ed519008296ec19b48",
+      "artifact_id": "2e110d522d454059aa99cf2c29410c72",
+      "target": "hr-knowledge/docs/evidence/ppt/最终件清单-PPT-20261106.md",
+      "sha256": "b86e4835068e30b680078b8291e6d6ace6b6ebc54fdf58ed519008296ec19b48",
+      "bytes": 6330,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "721943c845b049d9ac889274f3b140bf:4ccd67596bda8faf282295f431e378a30f8341b79d10e424e36ca7688617a165",
+      "artifact_id": "721943c845b049d9ac889274f3b140bf",
+      "target": "hr-knowledge/docs/extracted/meeting-templates/工会委员选举结果报告-报上级工会（待填）.md",
+      "sha256": "4ccd67596bda8faf282295f431e378a30f8341b79d10e424e36ca7688617a165",
+      "bytes": 1598,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "a677e24d5ae645c9ab5f2168e2e4f21b:4cee585e2e0d6f2c165d237cd5e5c21de0638ac50be0d5edb285fc10d67e6698",
+      "artifact_id": "a677e24d5ae645c9ab5f2168e2e4f21b",
+      "target": "hr-knowledge/docs/extracted/meeting-templates/工会委员选举结果报告-报同级党组织（待填）.md",
+      "sha256": "4cee585e2e0d6f2c165d237cd5e5c21de0638ac50be0d5edb285fc10d67e6698",
+      "bytes": 1653,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "3564cb4f0ce041a488922de9e4f6fc14:20ffc7e9f4dc5b20f54184de212bfc9c5b9bfd039a7a50c3ceab72caefbfb9f5",
+      "artifact_id": "3564cb4f0ce041a488922de9e4f6fc14",
+      "target": "hr-knowledge/docs/extracted/meeting-templates/议题二审议情况报告单-云上余村演艺分公司-2026-10-30.md",
+      "sha256": "20ffc7e9f4dc5b20f54184de212bfc9c5b9bfd039a7a50c3ceab72caefbfb9f5",
+      "bytes": 1253,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "0e58b16d0d5c4405b15c06a7c5fc245a:a833514c60258cbace668ca913b9fdc5fa1b92b17915b117e3cf6e0b711a6b8e",
+      "artifact_id": "0e58b16d0d5c4405b15c06a7c5fc245a",
+      "target": "hr-knowledge/docs/extracted/meeting-templates/议题二审议情况报告单-云上草原商管-2026-10-30.md",
+      "sha256": "a833514c60258cbace668ca913b9fdc5fa1b92b17915b117e3cf6e0b711a6b8e",
+      "bytes": 1235,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "695df826c17e44858f3f91a1ed99ca3b:ed8804988e9a7067356c1dd0e7ca6f45786d941c49289bd523bbc5498fdd1265",
+      "artifact_id": "695df826c17e44858f3f91a1ed99ca3b",
+      "target": "hr-knowledge/docs/extracted/meeting-templates/议题二审议情况报告单-云上草原度假村-2026-10-30.md",
+      "sha256": "ed8804988e9a7067356c1dd0e7ca6f45786d941c49289bd523bbc5498fdd1265",
+      "bytes": 1241,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "747f104d75cc44c68a3ed37e0276a8ca:3db3c2ba00d7f5e3bf4917269a03426333dae396b77da6d99368fbd639cd5d19",
+      "artifact_id": "747f104d75cc44c68a3ed37e0276a8ca",
+      "target": "hr-knowledge/docs/extracted/meeting-templates/议题二审议情况报告单-云上草原景区-2026-10-30.md",
+      "sha256": "3db3c2ba00d7f5e3bf4917269a03426333dae396b77da6d99368fbd639cd5d19",
+      "bytes": 1206,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "f1811607b30d4e46ae72ef58d6b5c37c:5fcd30cafb1dcbba996d8af04e37fd60e19b4426b410b41c7c6c18f77492d349",
+      "artifact_id": "f1811607b30d4e46ae72ef58d6b5c37c",
+      "target": "hr-knowledge/docs/extracted/meeting-templates/议题二审议情况报告单-体育文化-2026-10-30.md",
+      "sha256": "5fcd30cafb1dcbba996d8af04e37fd60e19b4426b410b41c7c6c18f77492d349",
+      "bytes": 1223,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "68ce740012ac4d48a74a6e106fe6eaf5:67fa0f2dbf46842027793318b94b7186939f3981f05fb1599edb9beb99d9a663",
+      "artifact_id": "68ce740012ac4d48a74a6e106fe6eaf5",
+      "target": "hr-knowledge/docs/extracted/meeting-templates/议题二审议情况报告单-工程管理分公司-2026-10-30.md",
+      "sha256": "67fa0f2dbf46842027793318b94b7186939f3981f05fb1599edb9beb99d9a663",
+      "bytes": 1241,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "068572f687454217bf40f0fad1d852a8:7e82d32ed455d96c5f5a182c0bbc63bb946194720763e585f1fb8b799048b6d3",
+      "artifact_id": "068572f687454217bf40f0fad1d852a8",
+      "target": "hr-knowledge/docs/extracted/meeting-templates/议题二审议情况报告单-恐龙酒店-2026-10-30.md",
+      "sha256": "7e82d32ed455d96c5f5a182c0bbc63bb946194720763e585f1fb8b799048b6d3",
+      "bytes": 1223,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "51a1655b3c4f4208b800bb04c6f9ac4a:7f3d8a33d366c175a760e648667a55487ee1772863cb6aa97ca6c2661380321e",
+      "artifact_id": "51a1655b3c4f4208b800bb04c6f9ac4a",
+      "target": "hr-knowledge/docs/extracted/meeting-templates/议题二审议情况报告单-星空天文酒店-2026-10-30.md",
+      "sha256": "7f3d8a33d366c175a760e648667a55487ee1772863cb6aa97ca6c2661380321e",
+      "bytes": 1235,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "d7162b86962f49189ce1f9e1b58069df:b57231841490e04eb396761e837336d5b21851f5c394e3841f144a6dec6fbfcf",
+      "artifact_id": "d7162b86962f49189ce1f9e1b58069df",
+      "target": "hr-knowledge/docs/extracted/meeting-templates/议题二审议情况报告单-景区管理分公司-2026-10-30.md",
+      "sha256": "b57231841490e04eb396761e837336d5b21851f5c394e3841f144a6dec6fbfcf",
+      "bytes": 1241,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "bbe60577d8f44cf3baf4326ac41de27c:9ddf72d637eb089170adab167686cb633fa926de55210d2b87c310cefdbcbff9",
+      "artifact_id": "bbe60577d8f44cf3baf4326ac41de27c",
+      "target": "hr-knowledge/docs/extracted/meeting-templates/议题二审议情况报告单-熊猫部落-2026-10-30.md",
+      "sha256": "9ddf72d637eb089170adab167686cb633fa926de55210d2b87c310cefdbcbff9",
+      "bytes": 1223,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "d35f3a11ddcf44bab026d67259f68c6f:de9cc2c00bec5ab6670d30e5d8ed2a060200cfdce3421622fc044ccb8e50825a",
+      "artifact_id": "d35f3a11ddcf44bab026d67259f68c6f",
+      "target": "hr-knowledge/docs/extracted/meeting-templates/议题二审议情况报告单-研创院-2026-10-30.md",
+      "sha256": "de9cc2c00bec5ab6670d30e5d8ed2a060200cfdce3421622fc044ccb8e50825a",
+      "bytes": 1217,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "0e8de031bcd0417a98790f29511a6a5f:8d21e82c551626fdeed5c252243fb7d47338c44170992f4e8bef6a0eb45b1d11",
+      "artifact_id": "0e8de031bcd0417a98790f29511a6a5f",
+      "target": "hr-knowledge/docs/extracted/meeting-templates/议题二审议情况报告单-聚力旅行社-2026-10-30.md",
+      "sha256": "8d21e82c551626fdeed5c252243fb7d47338c44170992f4e8bef6a0eb45b1d11",
+      "bytes": 1229,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "fc56787349f64134b5b70b8c473d53a9:dca887e75f1c3f8dae768e60da9df777b21425e24f40ae3c1144aeed9dbb3c06",
+      "artifact_id": "fc56787349f64134b5b70b8c473d53a9",
+      "target": "hr-knowledge/docs/extracted/meeting-templates/议题二审议情况报告单-茅山森林世界-2026-10-30.md",
+      "sha256": "dca887e75f1c3f8dae768e60da9df777b21425e24f40ae3c1144aeed9dbb3c06",
+      "bytes": 1235,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "0cf9101711c343fb901dfc1bcbfe5ff7:121543840a6304ed277bbfb9419fd066ee84ef4bdc39fae4deb7772d648b0780",
+      "artifact_id": "0cf9101711c343fb901dfc1bcbfe5ff7",
+      "target": "hr-knowledge/docs/extracted/meeting-templates/议题二审议情况报告单-行政管理中心-2026-10-30.md",
+      "sha256": "121543840a6304ed277bbfb9419fd066ee84ef4bdc39fae4deb7772d648b0780",
+      "bytes": 1235,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "e175cb2bd3e0437a9154a4ee1f0bb813:0af29ce349ff4d87417d90762939d7590af4b36506a5f21c68ec072128a52723",
+      "artifact_id": "e175cb2bd3e0437a9154a4ee1f0bb813",
+      "target": "hr-knowledge/docs/extracted/meeting-templates/议题二审议情况报告单-财务管理中心-2026-10-30.md",
+      "sha256": "0af29ce349ff4d87417d90762939d7590af4b36506a5f21c68ec072128a52723",
+      "bytes": 1235,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "cae87a2ca8a2437891abd32315088b77:5637712426902a1910ba082cbb61ff407e68fd3e7fedfc007f71b3ee66e3334e",
+      "artifact_id": "cae87a2ca8a2437891abd32315088b77",
+      "target": "hr-knowledge/docs/extracted/templates/00 机构填报表使用说明.md",
+      "sha256": "5637712426902a1910ba082cbb61ff407e68fd3e7fedfc007f71b3ee66e3334e",
+      "bytes": 2345,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "97959464b18340aea5b277fc09a2db88:9690d9b6a7e455cc10c0a7cd9bdacf953d2d237e52aa3c3795c00769b11b9da4",
+      "artifact_id": "97959464b18340aea5b277fc09a2db88",
+      "target": "hr-knowledge/docs/extracted/templates/1-会前-F10 名额与结构确认表（机构签收）.md",
+      "sha256": "9690d9b6a7e455cc10c0a7cd9bdacf953d2d237e52aa3c3795c00769b11b9da4",
+      "bytes": 1104,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "e22f458178a24a06ac27287a44e21905:434641144069dda845f3a5142053ca54174cb72b8a2af749cedc17f72566cec6",
+      "artifact_id": "e22f458178a24a06ac27287a44e21905",
+      "target": "hr-knowledge/docs/extracted/templates/1-会前-F11 候选人提名登记表.md",
+      "sha256": "434641144069dda845f3a5142053ca54174cb72b8a2af749cedc17f72566cec6",
+      "bytes": 948,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "8447cc56991b4199bf229536a050aa39:b0f77955e7ca0d9e116677baef3a0ca8ca34ac6e48697b8a8d33b6cdce3b28f8",
+      "artifact_id": "8447cc56991b4199bf229536a050aa39",
+      "target": "hr-knowledge/docs/extracted/templates/1-会前-F12 代表选举公示情况表.md",
+      "sha256": "b0f77955e7ca0d9e116677baef3a0ca8ca34ac6e48697b8a8d33b6cdce3b28f8",
+      "bytes": 933,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "a850b1c057444eda8335699af6df3404:707f1997e3a4450d578a8c31406519c9fa8edab17ab3c2b9033858ff52be0c4c",
+      "artifact_id": "a850b1c057444eda8335699af6df3404",
+      "target": "hr-knowledge/docs/extracted/templates/1-会前-F20 会议通知签收-预告回执.md",
+      "sha256": "707f1997e3a4450d578a8c31406519c9fa8edab17ab3c2b9033858ff52be0c4c",
+      "bytes": 938,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "eae465073cb643a29f6fbc4b35314c07:377ba6b31a4bfd5efa8458d0453322e3ae84fbafa30d750bfb92cfe9702c07fa",
+      "artifact_id": "eae465073cb643a29f6fbc4b35314c07",
+      "target": "hr-knowledge/docs/extracted/templates/1-会前-F21 代表参会预回执.md",
+      "sha256": "377ba6b31a4bfd5efa8458d0453322e3ae84fbafa30d750bfb92cfe9702c07fa",
+      "bytes": 818,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "d629d224fec84562b27409a393596bf5:39404c98da364e1d85855add2b2a8adfdec5debff39c2391a66b60022fc4e493",
+      "artifact_id": "d629d224fec84562b27409a393596bf5",
+      "target": "hr-knowledge/docs/extracted/templates/1-会前-F22 材料讨论意见汇总表.md",
+      "sha256": "39404c98da364e1d85855add2b2a8adfdec5debff39c2391a66b60022fc4e493",
+      "bytes": 1017,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "633f4cdc22554477ac758a0354a141d8:2839fc88d9d35077257d61f0c39e881af334fdcbbc33c73c076b021117d14aee",
+      "artifact_id": "633f4cdc22554477ac758a0354a141d8",
+      "target": "hr-knowledge/docs/extracted/templates/1-会前-F24 职工提案征集表.md",
+      "sha256": "2839fc88d9d35077257d61f0c39e881af334fdcbbc33c73c076b021117d14aee",
+      "bytes": 1002,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "db7a7da1f12f435ab06aeb36e4a4a326:12da1f5a9025ba57092abcd06476ca7d91220eb3bc566fc2a10e02a328d07504",
+      "artifact_id": "db7a7da1f12f435ab06aeb36e4a4a326",
+      "target": "hr-knowledge/docs/extracted/templates/1-会前-F25 机构提案初核清单.md",
+      "sha256": "12da1f5a9025ba57092abcd06476ca7d91220eb3bc566fc2a10e02a328d07504",
+      "bytes": 847,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "db6f07fb315d487daf2e7abafcfc531d:42ccbcfa0f82a219c28eec1735b63f59e77bacc4f1352c011cf260f8575b868b",
+      "artifact_id": "db6f07fb315d487daf2e7abafcfc531d",
+      "target": "hr-knowledge/docs/extracted/templates/1-会前-F30 正式参会回执-请假报备表.md",
+      "sha256": "42ccbcfa0f82a219c28eec1735b63f59e77bacc4f1352c011cf260f8575b868b",
+      "bytes": 959,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "43e11f1ff76e48129791928c1215c8f2:1bab7f78a14acc5cd51253d8f73ccd4427fdb18442c1995891e4b6c75f477c23",
+      "artifact_id": "43e11f1ff76e48129791928c1215c8f2",
+      "target": "hr-knowledge/docs/extracted/templates/2-会当天-F13 无记名投票结果表.md",
+      "sha256": "1bab7f78a14acc5cd51253d8f73ccd4427fdb18442c1995891e4b6c75f477c23",
+      "bytes": 1152,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "5db8317ef52645ed8284ae267f4c99c5:db6a19f30497ef0a34c8fc3db0445e89feb8353e9fff6c15733be06ecd07b943",
+      "artifact_id": "5db8317ef52645ed8284ae267f4c99c5",
+      "target": "hr-knowledge/docs/extracted/templates/2-会当天-F14 本机构选举情况报告.md",
+      "sha256": "db6a19f30497ef0a34c8fc3db0445e89feb8353e9fff6c15733be06ecd07b943",
+      "bytes": 1168,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "4ace82c28be9430a90cbfa33ffae4533:302fc99017e671c75f98bfddf493f1981d9be931b709566ba9710ee13351bc7d",
+      "artifact_id": "4ace82c28be9430a90cbfa33ffae4533",
+      "target": "hr-knowledge/docs/extracted/templates/2-会当天-F15 当选代表名单.md",
+      "sha256": "302fc99017e671c75f98bfddf493f1981d9be931b709566ba9710ee13351bc7d",
+      "bytes": 917,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "93e82ccfc1314f44981c00195fd29d2d:6a373d453e7fad4f234740ad606da255c9ae16011fe2b4668ed9a0d45ab49528",
+      "artifact_id": "93e82ccfc1314f44981c00195fd29d2d",
+      "target": "hr-knowledge/docs/extracted/templates/3-会后-F40 决议公示反馈表.md",
+      "sha256": "6a373d453e7fad4f234740ad606da255c9ae16011fe2b4668ed9a0d45ab49528",
+      "bytes": 894,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "5938d97b0e7e4021914ec62164ac9817:da3e40539ff2671da05a2540b326ebac0e17b25d0e6e3f7b2ec607029c97f42d",
+      "artifact_id": "5938d97b0e7e4021914ec62164ac9817",
+      "target": "hr-knowledge/docs/extracted/templates/3-会后-F42 决议落实进展反馈表.md",
+      "sha256": "da3e40539ff2671da05a2540b326ebac0e17b25d0e6e3f7b2ec607029c97f42d",
+      "bytes": 789,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "c6787cf91e8e429381d060ba30dfbfdf:017011b6b89ffadd50191012f10cfb7069840354463728991bad4ee33efb9600",
+      "artifact_id": "c6787cf91e8e429381d060ba30dfbfdf",
+      "target": "hr-knowledge/docs/extracted/templates/4-任期中-F50 代表变动登记表.md",
+      "sha256": "017011b6b89ffadd50191012f10cfb7069840354463728991bad4ee33efb9600",
+      "bytes": 861,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "2c27cd8a4ee4457186b059dd23c1e3ac:b06486f00a1aa5bfdbc1439370595158b0eb2e448f21539cf3dd7ee6d3af79ab",
+      "artifact_id": "2c27cd8a4ee4457186b059dd23c1e3ac",
+      "target": "hr-knowledge/docs/extracted/templates/4-任期中-F51 补选申请表.md",
+      "sha256": "b06486f00a1aa5bfdbc1439370595158b0eb2e448f21539cf3dd7ee6d3af79ab",
+      "bytes": 941,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "2279706cabe444a5aa93424299b604b1:3965125fb24bc1b131d0a7bfe319b860a73b37c36370399ed9473181c5a487ba",
+      "artifact_id": "2279706cabe444a5aa93424299b604b1",
+      "target": "hr-knowledge/docs/extracted/templates/4-任期中-F52 补选结果表.md",
+      "sha256": "3965125fb24bc1b131d0a7bfe319b860a73b37c36370399ed9473181c5a487ba",
+      "bytes": 807,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "306e78f8816f48babe85a8f5f2fd755d:4b9dcb1396bdb2afb22de3b7b84c0fe2417b245aaeca2b10ce816da6440dce26",
+      "artifact_id": "306e78f8816f48babe85a8f5f2fd755d",
+      "target": "hr-knowledge/docs/reference/regulation/条例版本核实-官方目录证据-2026-10-28.md",
+      "sha256": "4b9dcb1396bdb2afb22de3b7b84c0fe2417b245aaeca2b10ce816da6440dce26",
+      "bytes": 3907,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "a33aa354ff7b423fbbdcdaf32e26b05c:6d27d049b8fe9e2b6b70cfc274e852c4f99faae3895703765c2c39e12ab8cf3f",
+      "artifact_id": "a33aa354ff7b423fbbdcdaf32e26b05c",
+      "target": "hr-knowledge/docs/reference/regulation/浙江省企业民主管理条例-现取原文与核读-2026-10-28.md",
+      "sha256": "6d27d049b8fe9e2b6b70cfc274e852c4f99faae3895703765c2c39e12ab8cf3f",
+      "bytes": 8432,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "a2c6622ea655424fa944c372f03d9e10:b989fdb81493f6aeee6b40fd63a43541841b92d25b98d0b269ffaedfc9ff9646",
+      "artifact_id": "a2c6622ea655424fa944c372f03d9e10",
+      "target": "hr-knowledge/docs/working/meeting-templates/议题二审议情况报告单-清单-2026-10-29.md",
+      "sha256": "b989fdb81493f6aeee6b40fd63a43541841b92d25b98d0b269ffaedfc9ff9646",
+      "bytes": 4055,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "2713486f3dab4ed680eaeb002dee8152:cb68cdbc7cba2ec56086ba868e56704d56517ae1affe114a35b8ebd5036cca78",
+      "artifact_id": "2713486f3dab4ed680eaeb002dee8152",
+      "target": "hr-knowledge/docs/working/research/00-生命周期分类总索引-2026-11-04.md",
+      "sha256": "cb68cdbc7cba2ec56086ba868e56704d56517ae1affe114a35b8ebd5036cca78",
+      "bytes": 16593,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "baf8246148c847979013dde46bcbd3f4:1345cc5b2566eec374ee9127dbdba017395f6ac783630a69eb73aeffd5b846c4",
+      "artifact_id": "baf8246148c847979013dde46bcbd3f4",
+      "target": "hr-knowledge/docs/working/research/01-S1吸引阶段分类-v1-2026-11-04.md",
+      "sha256": "1345cc5b2566eec374ee9127dbdba017395f6ac783630a69eb73aeffd5b846c4",
+      "bytes": 17346,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "b08d21953da840fe8c39ee73fc6fcd8f:ad128b2544be449379581be8e66d2ca064a693c2fb471d50e1c1f909bd34d87b",
+      "artifact_id": "b08d21953da840fe8c39ee73fc6fcd8f",
+      "target": "hr-knowledge/docs/working/research/02-S2招聘甄选阶段分类-v1-2026-11-04.md",
+      "sha256": "ad128b2544be449379581be8e66d2ca064a693c2fb471d50e1c1f909bd34d87b",
+      "bytes": 26311,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "712049cf68fe4d438953d7cfed0ef16c:6270ae8054b99956dcc64835aed4568c9f69bb6ecfa37356d28fc107bf09f3a8",
+      "artifact_id": "712049cf68fe4d438953d7cfed0ef16c",
+      "target": "hr-knowledge/docs/working/research/04-S4发展阶段分类-v1-2026-11-04.md",
+      "sha256": "6270ae8054b99956dcc64835aed4568c9f69bb6ecfa37356d28fc107bf09f3a8",
+      "bytes": 36695,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "15f3c79a6b1a4ab7bb0929718f3bc476:733d810f87c1c82909d53e985eb1047f4bdff60ed99072aa4cd9d59aa673b2d0",
+      "artifact_id": "15f3c79a6b1a4ab7bb0929718f3bc476",
+      "target": "hr-knowledge/docs/working/research/05-S5保留阶段分类-v1-2026-11-04.md",
+      "sha256": "733d810f87c1c82909d53e985eb1047f4bdff60ed99072aa4cd9d59aa673b2d0",
+      "bytes": 41583,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "badc6345d862449c9fc0dc913c4d0541:841bc5818fa673ca74e1c3f359c8ef6fa3298d48474efa2846aa4549e78a514f",
+      "artifact_id": "badc6345d862449c9fc0dc913c4d0541",
+      "target": "hr-knowledge/docs/working/research/06-S6离职与组织洞察阶段分类-v1-2026-11-04.md",
+      "sha256": "841bc5818fa673ca74e1c3f359c8ef6fa3298d48474efa2846aa4549e78a514f",
+      "bytes": 54088,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "7eee6007437240ae8a39b8a7eba44004:7f5a12c035f318832d243de4bd2dbda0b437665f9bda5123763c1510b93fa944",
+      "artifact_id": "7eee6007437240ae8a39b8a7eba44004",
+      "target": "hr-knowledge/docs/working/research/07-数据底座-指标口径库与现状基线-v1-2026-11-04.md",
+      "sha256": "7f5a12c035f318832d243de4bd2dbda0b437665f9bda5123763c1510b93fa944",
+      "bytes": 37909,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "06b6bac3cf694fa3b050af742e0e2a81:fb17a721e58bf39104679a93f5d21da5017e97e09b12c12cd1456e1e5555c082",
+      "artifact_id": "06b6bac3cf694fa3b050af742e0e2a81",
+      "target": "hr-knowledge/docs/working/research/08-待拍清单合并版-2026-11-04.md",
+      "sha256": "fb17a721e58bf39104679a93f5d21da5017e97e09b12c12cd1456e1e5555c082",
+      "bytes": 13281,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "f87b9128b9914665952f3f21651a5425:36c0d934b363009e130c1f8873a5d06fff2af03168cce07a03b0d1a0536ef13a",
+      "artifact_id": "f87b9128b9914665952f3f21651a5425",
+      "target": "hr-knowledge/docs/working/research/本次整合核心逻辑关键词-20261107.md",
+      "sha256": "36c0d934b363009e130c1f8873a5d06fff2af03168cce07a03b0d1a0536ef13a",
+      "bytes": 2919,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "a80bb08d1fe74643bc3e54c32a70f3cd:5ae4bc3877a94e679bef129b6c1727ab835d3a2394242840acdf140f2fe94694",
+      "artifact_id": "a80bb08d1fe74643bc3e54c32a70f3cd",
+      "target": "hr-knowledge/docs/working/research/集团本部25件范围确认定稿-20261107.md",
+      "sha256": "5ae4bc3877a94e679bef129b6c1727ab835d3a2394242840acdf140f2fe94694",
+      "bytes": 3416,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "bf3ae8ae35114f898a325ffb5ee898ff:8d61720abb7f02c7a91e262b3dbed8231e3b0a67f4eeeac31c98b0e6f8a5c33b",
+      "artifact_id": "bf3ae8ae35114f898a325ffb5ee898ff",
+      "target": "hr-knowledge/docs/working/revision-v5/S1-招聘-修订说明.md",
+      "sha256": "8d61720abb7f02c7a91e262b3dbed8231e3b0a67f4eeeac31c98b0e6f8a5c33b",
+      "bytes": 2444,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "93fac106933a445c81189d06045161de:45460282b8cae5bfb924d8166b6fe07b6336afb19b87402a64dc393fbd7e4a33",
+      "artifact_id": "93fac106933a445c81189d06045161de",
+      "target": "hr-knowledge/docs/working/revision-v5/S2-选用-修订说明.md",
+      "sha256": "45460282b8cae5bfb924d8166b6fe07b6336afb19b87402a64dc393fbd7e4a33",
+      "bytes": 2166,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "e1ed66632d8e4fef91fbe5d0d6e43270:f95708fafd5644a3f8a907942072769f0a050d6b3a95a939534a4dfcb151f1c1",
+      "artifact_id": "e1ed66632d8e4fef91fbe5d0d6e43270",
+      "target": "hr-knowledge/docs/working/revision-v5/S3-融入-修订说明.md",
+      "sha256": "f95708fafd5644a3f8a907942072769f0a050d6b3a95a939534a4dfcb151f1c1",
+      "bytes": 2481,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "00da9070cb5c4f8d8d0ff368e16da639:7048e1c2e62eba4e97beebaa761bc26bc3124fd0e6001b1c8bf10f94e1edba7e",
+      "artifact_id": "00da9070cb5c4f8d8d0ff368e16da639",
+      "target": "hr-knowledge/docs/working/revision-v5/S4-发展-修订说明.md",
+      "sha256": "7048e1c2e62eba4e97beebaa761bc26bc3124fd0e6001b1c8bf10f94e1edba7e",
+      "bytes": 3837,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "d8bceecab0194dd8940f1ac77eb5e2c8:f2da9b4046c5ea72fe90f4ea9d7464a9d8eb70361b476004b278e77a4078682e",
+      "artifact_id": "d8bceecab0194dd8940f1ac77eb5e2c8",
+      "target": "hr-knowledge/docs/working/revision-v5/S5-保留-修订说明.md",
+      "sha256": "f2da9b4046c5ea72fe90f4ea9d7464a9d8eb70361b476004b278e77a4078682e",
+      "bytes": 3019,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "d63cb36d356949649dab65f94a872f98:62c746f8b5947eaa049e1f43050ce7dfa5f65c7358ce9f3a95f49b88ad2cc1be",
+      "artifact_id": "d63cb36d356949649dab65f94a872f98",
+      "target": "hr-knowledge/docs/working/revision-v5/S6-离任与洞察-修订说明.md",
+      "sha256": "62c746f8b5947eaa049e1f43050ce7dfa5f65c7358ce9f3a95f49b88ad2cc1be",
+      "bytes": 3446,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "a34747afab2449e4943f1e658b3439be:3c4fcaa84c0c500824cf734ae513ee8c600ee5a5eb8d2ce7852dbef9178b4bf0",
+      "artifact_id": "a34747afab2449e4943f1e658b3439be",
+      "target": "hr-knowledge/docs/working/revision-v5/_工具写法规范.md",
+      "sha256": "3c4fcaa84c0c500824cf734ae513ee8c600ee5a5eb8d2ce7852dbef9178b4bf0",
+      "bytes": 9122,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "79223f2c2cf648a2a55a280eda4b36f0:b7f3cde1a9d22862f823772fc879204094f0e1e84d22d55feaa345ee1259d1a2",
+      "artifact_id": "79223f2c2cf648a2a55a280eda4b36f0",
+      "target": "hr-knowledge/docs/working/revision-v5/_待拍板决策单.md",
+      "sha256": "b7f3cde1a9d22862f823772fc879204094f0e1e84d22d55feaa345ee1259d1a2",
+      "bytes": 4231,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "8cd321ad1e184b04a37967ac8e927bec:b724b6e4b4dbbf82481dbab3ef2a1ee072104314c1e56301186b2e4f3550ce4a",
+      "artifact_id": "8cd321ad1e184b04a37967ac8e927bec",
+      "target": "hr-knowledge/docs/working/revision-v5/_进度台账.md",
+      "sha256": "b724b6e4b4dbbf82481dbab3ef2a1ee072104314c1e56301186b2e4f3550ce4a",
+      "bytes": 9368,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "78f74880b80346539bbd7eb01a072162:8358e842ee81daf99f2b9cc4fbf8bac320c4d2295a55532d62fa4eb095778beb",
+      "artifact_id": "78f74880b80346539bbd7eb01a072162",
+      "target": "hr-knowledge/docs/working/revision-v5/v5两件体例与留痕规则-20261105.md",
+      "sha256": "8358e842ee81daf99f2b9cc4fbf8bac320c4d2295a55532d62fa4eb095778beb",
+      "bytes": 8683,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "9dd40d1847d24d4db3dbbf7faad0ffbf:e411f19f0b295ab6abbb82c53b2d1148f2ff216d8983b7be487f733308604625",
+      "artifact_id": "9dd40d1847d24d4db3dbbf7faad0ffbf",
+      "target": "hr-knowledge/docs/working/revision-v5/v5两件体例与留痕规则-v2-20261105.md",
+      "sha256": "e411f19f0b295ab6abbb82c53b2d1148f2ff216d8983b7be487f733308604625",
+      "bytes": 7582,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "4014ece61fc34a27aaeb66953e4116e9:e7c52794df90a49dc133eb089d3ce98c511dfb3c7cf9eec1ac9d3cb9b549c286",
+      "artifact_id": "4014ece61fc34a27aaeb66953e4116e9",
+      "target": "hr-knowledge/docs/working/revision/00-新稿交付索引-2026-11-04.md",
+      "sha256": "e7c52794df90a49dc133eb089d3ce98c511dfb3c7cf9eec1ac9d3cb9b549c286",
+      "bytes": 5988,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "be332e3df57d441a87b43b96ccbaecfc:9ba3ec53c1fd17ff51c86a08cb30a8382e48cf5a2388d4e93d5e3f152a3acda4",
+      "artifact_id": "be332e3df57d441a87b43b96ccbaecfc",
+      "target": "hr-knowledge/docs/working/revision/00-理论源要点卡-2026-11-04.md",
+      "sha256": "9ba3ec53c1fd17ff51c86a08cb30a8382e48cf5a2388d4e93d5e3f152a3acda4",
+      "bytes": 5083,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "8fd0a8646f074ec9a560e031e5eaaa98:860be00803d4ab3a02585cdaea2861ff3140c0e4a862912d3f3fcfb1f5dae46f",
+      "artifact_id": "8fd0a8646f074ec9a560e031e5eaaa98",
+      "target": "hr-knowledge/docs/working/revision/S1-人才吸引管理细则（正文稿）-2026-11-04.审校修订.md",
+      "sha256": "860be00803d4ab3a02585cdaea2861ff3140c0e4a862912d3f3fcfb1f5dae46f",
+      "bytes": 5429,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "8057fc5ba1e942fd9e1d101f84524859:d2ffaa29385a1d1fe806e1fafc6129a364156bb08685d962e09612d1cc807a68",
+      "artifact_id": "8057fc5ba1e942fd9e1d101f84524859",
+      "target": "hr-knowledge/docs/working/revision/S2-招聘甄选管理细则（正文稿）-2026-11-04.审校修订.md",
+      "sha256": "d2ffaa29385a1d1fe806e1fafc6129a364156bb08685d962e09612d1cc807a68",
+      "bytes": 5727,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "1b886fc817cb413eb11ccb218c22d1ac:f4a28ce2e804073c14a6b1b49bad2b5c2f186739250f048586674fb03f2c9993",
+      "artifact_id": "1b886fc817cb413eb11ccb218c22d1ac",
+      "target": "hr-knowledge/docs/working/revision/S3-入职融入管理细则（正文稿）-2026-11-04.审校修订.md",
+      "sha256": "f4a28ce2e804073c14a6b1b49bad2b5c2f186739250f048586674fb03f2c9993",
+      "bytes": 5084,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "dd7276b900f442dbb434fbf201ac369f:48e84dc0bae1e49632433d67b5fe321e56dd1c586fe346f7d23da67cad82c7a5",
+      "artifact_id": "dd7276b900f442dbb434fbf201ac369f",
+      "target": "hr-knowledge/docs/working/revision/S4-人才发展管理细则（正文稿）-2026-11-04.审校修订.md",
+      "sha256": "48e84dc0bae1e49632433d67b5fe321e56dd1c586fe346f7d23da67cad82c7a5",
+      "bytes": 6192,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "d2251667040c428dab3f06b066f046bb:0a23bf4584ee8634b0da1072c5444dc850deeff3a4b1f4bda8c061dbf8e8e185",
+      "artifact_id": "d2251667040c428dab3f06b066f046bb",
+      "target": "hr-knowledge/docs/working/revision/S5-保留与激励管理细则（正文稿）-2026-11-04.审校修订.md",
+      "sha256": "0a23bf4584ee8634b0da1072c5444dc850deeff3a4b1f4bda8c061dbf8e8e185",
+      "bytes": 5438,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "7569252a474f4d53b79853c199edcdb8:3ce63a2db347e5db170ca93933ee1aad92ddf5bf66362db82b2a97ef6a016c42",
+      "artifact_id": "7569252a474f4d53b79853c199edcdb8",
+      "target": "hr-knowledge/docs/working/revision/S6-离职与组织洞察管理细则（正文稿）-2026-11-04.审校修订.md",
+      "sha256": "3ce63a2db347e5db170ca93933ee1aad92ddf5bf66362db82b2a97ef6a016c42",
+      "bytes": 6886,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "23b31b702d0b432cb1f4d7fe488c1e3c:7fdc49b00cc30c542349740eacec7ef716f52e5b68c061d694bff04adc479618",
+      "artifact_id": "23b31b702d0b432cb1f4d7fe488c1e3c",
+      "target": "hr-knowledge/docs/working/revision/六环节细则体例与命名编号草案.md",
+      "sha256": "7fdc49b00cc30c542349740eacec7ef716f52e5b68c061d694bff04adc479618",
+      "bytes": 9625,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "15768073ee1d45be98a52429aaf55deb:cbb52d1eb0e1341c13df208a14ccbd14eed0561ac443f40bee6c8c6b020f3eb9",
+      "artifact_id": "15768073ee1d45be98a52429aaf55deb",
+      "target": "hr-knowledge/docs/working/revision/审校清单-2026-11-04.md",
+      "sha256": "cbb52d1eb0e1341c13df208a14ccbd14eed0561ac443f40bee6c8c6b020f3eb9",
+      "bytes": 6171,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "fb4be86240dd4de3867c86dde7c65728:670f0bd96f553ba53d186adb5e1c6145e85abca7057ec8293628b79ec149064b",
+      "artifact_id": "fb4be86240dd4de3867c86dde7c65728",
+      "target": "hr-knowledge/docs/working/revision/待确认清单-2026-11-04.md",
+      "sha256": "670f0bd96f553ba53d186adb5e1c6145e85abca7057ec8293628b79ec149064b",
+      "bytes": 5043,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "3397c36844834fdf867638661850a030:0efea446206ac8882afb22c9086c1a2f8cb7ca031961e396bd9a49ceaf8f79a2",
+      "artifact_id": "3397c36844834fdf867638661850a030",
+      "target": "hr-knowledge/outputs/2026集团招聘进度汇报-2026-11-08.provenance.md",
+      "sha256": "0efea446206ac8882afb22c9086c1a2f8cb7ca031961e396bd9a49ceaf8f79a2",
+      "bytes": 4302,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "f887bfa96eb7490d81e6672073be57a4:81f02c7609bb0e86cfcac9e6b5073f0cb1f5c766e8bc000eb5c68c10c59b3651",
+      "artifact_id": "f887bfa96eb7490d81e6672073be57a4",
+      "target": "hr-knowledge/outputs/P序列在职清单-20261112.provenance.md",
+      "sha256": "81f02c7609bb0e86cfcac9e6b5073f0cb1f5c766e8bc000eb5c68c10c59b3651",
+      "bytes": 2723,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "b324310212174959b295bac18d118780:78f57d5ef3f3708d9ed934eedfac5b70efc6f52a274964c871cf8e94a7b40aa7",
+      "artifact_id": "b324310212174959b295bac18d118780",
+      "target": "hr-knowledge/outputs/hr-panel-2026-10-29.provenance.md",
+      "sha256": "78f57d5ef3f3708d9ed934eedfac5b70efc6f52a274964c871cf8e94a7b40aa7",
+      "bytes": 1704,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "e04dabc223fa4513bf9289f99bc708aa:9a474a9ef4c83d73ccedd459a2d2d0578316b99ec2325d16d9eead557cd45c14",
+      "artifact_id": "e04dabc223fa4513bf9289f99bc708aa",
+      "target": "hr-knowledge/outputs/hr-panel-snapshot-2026-10-27.reconstructed-1251.provenance.md",
+      "sha256": "9a474a9ef4c83d73ccedd459a2d2d0578316b99ec2325d16d9eead557cd45c14",
+      "bytes": 4579,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "586c78b1a97b405484f294f0b225fb1d:2ddf2ec343cfb7f3f887b93ee7bf74e8b37c48334bcb0d2803282c8f9c29faf1",
+      "artifact_id": "586c78b1a97b405484f294f0b225fb1d",
+      "target": "hr-knowledge/outputs/云上文旅集团人事档案管理办法.final.docx",
+      "sha256": "2ddf2ec343cfb7f3f887b93ee7bf74e8b37c48334bcb0d2803282c8f9c29faf1",
+      "bytes": 37570,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "1123fc01c03d44c68f15c29320f178fa:a10c22e20ce05b4f431acd72703f597f602bf073c4fa82e0940d59b34cfcfc12",
+      "artifact_id": "1123fc01c03d44c68f15c29320f178fa",
+      "target": "hr-knowledge/outputs/云上文旅集团人事档案管理办法.final.pdf",
+      "sha256": "a10c22e20ce05b4f431acd72703f597f602bf073c4fa82e0940d59b34cfcfc12",
+      "bytes": 81376,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "31d074a987134ffe8cb61585abd8d5e0:9c7e4079703c1a18b712683e3f8085219f8c68a88482257be5867220e1f1bcb1",
+      "artifact_id": "31d074a987134ffe8cb61585abd8d5e0",
+      "target": "hr-knowledge/outputs/云上文旅集团人事档案管理办法.final.receipt.md",
+      "sha256": "9c7e4079703c1a18b712683e3f8085219f8c68a88482257be5867220e1f1bcb1",
+      "bytes": 8685,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "3fee69e02b824768b35d6e637ea75204:d29330309bf2c32763b781655f71f5e6eafd4a346230d0c82913145194602b5b",
+      "artifact_id": "3fee69e02b824768b35d6e637ea75204",
+      "target": "hr-knowledge/outputs/关于召开第四届第一次工会会员代表大会的通知-2026-10-29.final.docx",
+      "sha256": "d29330309bf2c32763b781655f71f5e6eafd4a346230d0c82913145194602b5b",
+      "bytes": 37541,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "03e2f5c4bc5348ccabbed7fadf795441:8731d4e645bd916e344d1f9cafb9e2553f35250366a24f10212f56dc31aabfa0",
+      "artifact_id": "03e2f5c4bc5348ccabbed7fadf795441",
+      "target": "hr-knowledge/outputs/关于召开第四届第一次工会会员代表大会的通知-2026-10-29.final.pdf",
+      "sha256": "8731d4e645bd916e344d1f9cafb9e2553f35250366a24f10212f56dc31aabfa0",
+      "bytes": 77317,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "5e3110fbaf07427aa1591051cbf557ac:c84435d4800501d9b3b370edcb6b14a406a6873b72e7d479adb465a0f529c0f8",
+      "artifact_id": "5e3110fbaf07427aa1591051cbf557ac",
+      "target": "hr-knowledge/outputs/关于召开第四届第一次工会会员代表大会的通知-2026-10-29.final.provenance.md",
+      "sha256": "c84435d4800501d9b3b370edcb6b14a406a6873b72e7d479adb465a0f529c0f8",
+      "bytes": 950,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "74afe6fa1d004af5832dd55dbcb13802:ae6b79db616b32b34f0d507bc5ae79a6910e15cd664e3e1026c5950938f0e6b3",
+      "artifact_id": "74afe6fa1d004af5832dd55dbcb13802",
+      "target": "hr-knowledge/outputs/关于召开第四届第一次工会会员代表大会的通知-2026-10-29.final.receipt.md",
+      "sha256": "ae6b79db616b32b34f0d507bc5ae79a6910e15cd664e3e1026c5950938f0e6b3",
+      "bytes": 2331,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "25b81652a1de433789bdd37e257bd915:1ceda0e27b1a4d598a4d6a783c4749c67f363db04ac3971f533cc8a84c3046a2",
+      "artifact_id": "25b81652a1de433789bdd37e257bd915",
+      "target": "hr-knowledge/outputs/关于召开职工代表大会的通知-2026-10-28.final.docx",
+      "sha256": "1ceda0e27b1a4d598a4d6a783c4749c67f363db04ac3971f533cc8a84c3046a2",
+      "bytes": 40784,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "86c08fb977214df08f9f99919b8986f3:b82e71b6d6386d54f82afd88de0ce0a76aa13126a7708092a73bbbddf00a48ff",
+      "artifact_id": "86c08fb977214df08f9f99919b8986f3",
+      "target": "hr-knowledge/outputs/关于召开职工代表大会的通知-2026-10-28.final.pdf",
+      "sha256": "b82e71b6d6386d54f82afd88de0ce0a76aa13126a7708092a73bbbddf00a48ff",
+      "bytes": 223816,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "2d863cc6f6174437b6248175abc9bc44:2acb1b1727fdc7ce0b4a8d2ecf622ecdd09e34f0887e3d5774ea7b061f67ed7d",
+      "artifact_id": "2d863cc6f6174437b6248175abc9bc44",
+      "target": "hr-knowledge/outputs/关于召开职工代表大会的通知-2026-10-28.final.provenance.md",
+      "sha256": "2acb1b1727fdc7ce0b4a8d2ecf622ecdd09e34f0887e3d5774ea7b061f67ed7d",
+      "bytes": 726,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "1933fee7975d4afea969b8fc75f54860:7cecfbe14177757e863fa8d3345fdf54b0a124577e102ec859988336131eb430",
+      "artifact_id": "1933fee7975d4afea969b8fc75f54860",
+      "target": "hr-knowledge/outputs/关于召开职工代表大会的通知-2026-10-28.final.receipt.md",
+      "sha256": "7cecfbe14177757e863fa8d3345fdf54b0a124577e102ec859988336131eb430",
+      "bytes": 1845,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "eacb5b7265674b4196d92b752fefdbb1:875202355a9fcb75bc0ffd3a7c5e974326757a4b8e8ca5d20ffe2c00d56997f0",
+      "artifact_id": "eacb5b7265674b4196d92b752fefdbb1",
+      "target": "hr-knowledge/outputs/关于规范文件归档管理的通知.final.docx",
+      "sha256": "875202355a9fcb75bc0ffd3a7c5e974326757a4b8e8ca5d20ffe2c00d56997f0",
+      "bytes": 37431,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "77f7a0ed7bdb4f5d8576ad20ab00fdc5:9381396c9b38969eb248e88b4a165282c72d953ac6060493dc1e5306d538ad0e",
+      "artifact_id": "77f7a0ed7bdb4f5d8576ad20ab00fdc5",
+      "target": "hr-knowledge/outputs/关于规范文件归档管理的通知.final.pdf",
+      "sha256": "9381396c9b38969eb248e88b4a165282c72d953ac6060493dc1e5306d538ad0e",
+      "bytes": 73057,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "6da973606b864027a5b7323b6287818a:5db48e0f7265c615f328a5bf02fe8276aabb1662fd7cfb993a8822fc6777fbcb",
+      "artifact_id": "6da973606b864027a5b7323b6287818a",
+      "target": "hr-knowledge/outputs/关于规范文件归档管理的通知.final.receipt.md",
+      "sha256": "5db48e0f7265c615f328a5bf02fe8276aabb1662fd7cfb993a8822fc6777fbcb",
+      "bytes": 6055,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "f2ad4bfbc8a645858486dd5e64a47fbd:de7b760cdd98e2cef397e2b20b29c24e8db6c5ff259ce24a452187658232166a",
+      "artifact_id": "f2ad4bfbc8a645858486dd5e64a47fbd",
+      "target": "hr-knowledge/outputs/干部管理框架-2026-11-07.provenance.md",
+      "sha256": "de7b760cdd98e2cef397e2b20b29c24e8db6c5ff259ce24a452187658232166a",
+      "bytes": 2173,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "76caa81815d347c9a78d3ab16e0828a1:fa6966807b5569b874eefa28e1b57b0df76b9978190019ac0fedef53b15c3a93",
+      "artifact_id": "76caa81815d347c9a78d3ab16e0828a1",
+      "target": "hr-knowledge/outputs/旧件留档/关于召开职工代表大会的通知-2026-10-28.final.docx",
+      "sha256": "fa6966807b5569b874eefa28e1b57b0df76b9978190019ac0fedef53b15c3a93",
+      "bytes": 40787,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "ce5d912b92294214a0d0ab90a2c1fc16:ab73175b5b75052e3675d1c1038ef85f5b9f7ba3f8eae1abeca08a15d1db2ddf",
+      "artifact_id": "ce5d912b92294214a0d0ab90a2c1fc16",
+      "target": "hr-knowledge/outputs/旧件留档/关于召开职工代表大会的通知-2026-10-28.final.pdf",
+      "sha256": "ab73175b5b75052e3675d1c1038ef85f5b9f7ba3f8eae1abeca08a15d1db2ddf",
+      "bytes": 223036,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "d114d073bc07481e83e27610e9285eea:af6ba688cf4f1e0bf8a2e85b4b819ba0b23081e827a0dd7f760e0302969999e8",
+      "artifact_id": "d114d073bc07481e83e27610e9285eea",
+      "target": "hr-knowledge/outputs/旧件留档/关于召开职工代表大会的通知-2026-10-28.final.receipt.md",
+      "sha256": "af6ba688cf4f1e0bf8a2e85b4b819ba0b23081e827a0dd7f760e0302969999e8",
+      "bytes": 1986,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "f0708cd701c64fa5afc1c2724ce496ed:717d6ae6f3880d73a23b0a5ac2cfa6afc9730ad6c5fd0c64384e545e6768c62a",
+      "artifact_id": "f0708cd701c64fa5afc1c2724ce496ed",
+      "target": "hr-knowledge/outputs/旧件留档/职代会代表选举办法-2026-10-28.final.docx",
+      "sha256": "717d6ae6f3880d73a23b0a5ac2cfa6afc9730ad6c5fd0c64384e545e6768c62a",
+      "bytes": 43371,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "cbfa8d1af7fa48bd85fe33c829bb9065:02f549a50eec868ae0d7fae97996f6f1b9b923fbe2932198cfc83c878b2bfdc1",
+      "artifact_id": "cbfa8d1af7fa48bd85fe33c829bb9065",
+      "target": "hr-knowledge/outputs/旧件留档/职代会代表选举办法-2026-10-28.final.pdf",
+      "sha256": "02f549a50eec868ae0d7fae97996f6f1b9b923fbe2932198cfc83c878b2bfdc1",
+      "bytes": 316500,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "c0020050fdee4782b10bccdac8cee0b4:0ca5875afb9e91e9f60f95e7f2939b2e9bf5d70080e970f63ee0fe811c6b1f66",
+      "artifact_id": "c0020050fdee4782b10bccdac8cee0b4",
+      "target": "hr-knowledge/outputs/旧件留档/职代会报备件-2026-10-28.final.docx",
+      "sha256": "0ca5875afb9e91e9f60f95e7f2939b2e9bf5d70080e970f63ee0fe811c6b1f66",
+      "bytes": 40918,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "9f3da0cef9684920a76aebf652917d5b:b3c95c55eafbc9241137542c172883ee9e06ea48c11792708289d21f40306180",
+      "artifact_id": "9f3da0cef9684920a76aebf652917d5b",
+      "target": "hr-knowledge/outputs/旧件留档/职代会报备件-2026-10-28.final.pdf",
+      "sha256": "b3c95c55eafbc9241137542c172883ee9e06ea48c11792708289d21f40306180",
+      "bytes": 182652,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "d0b54148a3714667aebc18cfdea3c1db:5dab501f8dc56061eb861a27c759ea65a8fe4a80a54cc4152bf7f4d0009c5add",
+      "artifact_id": "d0b54148a3714667aebc18cfdea3c1db",
+      "target": "hr-knowledge/outputs/旧件留档/职代会报备件-2026-10-28.final.receipt.md",
+      "sha256": "5dab501f8dc56061eb861a27c759ea65a8fe4a80a54cc4152bf7f4d0009c5add",
+      "bytes": 1691,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "dc1481474e27469ba85bf64adbbd0949:d87b34a9b98f35bdbc9ac840a5069afba9b49cd3d361b9af20aa0d9833134d32",
+      "artifact_id": "dc1481474e27469ba85bf64adbbd0949",
+      "target": "hr-knowledge/outputs/旧件留档/职工代表大会拟审议议案清单-2026-10-28.final.docx",
+      "sha256": "d87b34a9b98f35bdbc9ac840a5069afba9b49cd3d361b9af20aa0d9833134d32",
+      "bytes": 39447,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "565030d504c04807b10ba32753f1f208:d5765d8afae8ea0aae8d1b4a84ea61a9ee5a493ba69cea45ff1e3a404854b951",
+      "artifact_id": "565030d504c04807b10ba32753f1f208",
+      "target": "hr-knowledge/outputs/旧件留档/职工代表大会拟审议议案清单-2026-10-28.final.pdf",
+      "sha256": "d5765d8afae8ea0aae8d1b4a84ea61a9ee5a493ba69cea45ff1e3a404854b951",
+      "bytes": 123293,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "5784bf037c1943d3a257a34ac070cc48:ccfd6d52bbda648c2fe36c98228443fc7e97819c938d8b12096d2b1c00c2d9ff",
+      "artifact_id": "5784bf037c1943d3a257a34ac070cc48",
+      "target": "hr-knowledge/outputs/景区成功案例-2026-11-11.provenance.md",
+      "sha256": "ccfd6d52bbda648c2fe36c98228443fc7e97819c938d8b12096d2b1c00c2d9ff",
+      "bytes": 2873,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "90e248ef6ec7481b8dc25eed3807cf24:a68017be0f749b1d44b0ace03bb2a4bb496684050f0490f85a77ca5a0067431d",
+      "artifact_id": "90e248ef6ec7481b8dc25eed3807cf24",
+      "target": "hr-knowledge/outputs/景区成功案例-单体景区-2026-11-11.provenance.md",
+      "sha256": "a68017be0f749b1d44b0ace03bb2a4bb496684050f0490f85a77ca5a0067431d",
+      "bytes": 13929,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "fad4ce960e344fc1b7de2a9fa23ecc1c:3b936dc96de779c5376040e8aeb32c69a2ef0c53c6ba4107a0edf1b7b4897081",
+      "artifact_id": "fad4ce960e344fc1b7de2a9fa23ecc1c",
+      "target": "hr-knowledge/outputs/管理原话-20261110/01-管理专题从严汇编.md",
+      "sha256": "3b936dc96de779c5376040e8aeb32c69a2ef0c53c6ba4107a0edf1b7b4897081",
+      "bytes": 137169,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "54f739e7dc3e42aab4a99da874ef0bfb:5157c9a83c481746e48ff86c7ce0b481e400ee30bfaa30e67c6946a2e90826c2",
+      "artifact_id": "54f739e7dc3e42aab4a99da874ef0bfb",
+      "target": "hr-knowledge/outputs/管理原话-20261110/02-从严筛选说明与校验.md",
+      "sha256": "5157c9a83c481746e48ff86c7ce0b481e400ee30bfaa30e67c6946a2e90826c2",
+      "bytes": 1865,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "36ce72e0d311446795cd489ca23e115c:0f1164d8d0e051ea4816e0a87969dbca093a6c6501023169ca652301cc5e468e",
+      "artifact_id": "36ce72e0d311446795cd489ca23e115c",
+      "target": "hr-knowledge/outputs/管理原话-20261110/03-全部录音逐字汇编.md",
+      "sha256": "0f1164d8d0e051ea4816e0a87969dbca093a6c6501023169ca652301cc5e468e",
+      "bytes": 164451,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "70145c1244cb41ca85cbad5e01901075:3a259596f7f129b361ad31fb8fbbcbf62f3c269d1d3db10ae7a5ab13126010cc",
+      "artifact_id": "70145c1244cb41ca85cbad5e01901075",
+      "target": "hr-knowledge/outputs/管理原话-20261110/04-全部录音覆盖与校验报告.md",
+      "sha256": "3a259596f7f129b361ad31fb8fbbcbf62f3c269d1d3db10ae7a5ab13126010cc",
+      "bytes": 1414,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "7c24ef28741a4a49943f3be479b04927:30e527a136b3deb1da2867e6defe9112d392ffe2ff84763de7f02d3428a5f3f2",
+      "artifact_id": "7c24ef28741a4a49943f3be479b04927",
+      "target": "hr-knowledge/outputs/职代会代表选举办法-2026-10-28.final.docx",
+      "sha256": "30e527a136b3deb1da2867e6defe9112d392ffe2ff84763de7f02d3428a5f3f2",
+      "bytes": 43315,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "32a3edcbcc7e43eba14d59af0bc1b68e:75db026c9da3b83f23b94f6d2085d25151f01bf57c88b89e9a6616cf16bffa3c",
+      "artifact_id": "32a3edcbcc7e43eba14d59af0bc1b68e",
+      "target": "hr-knowledge/outputs/职代会代表选举办法-2026-10-28.final.pdf",
+      "sha256": "75db026c9da3b83f23b94f6d2085d25151f01bf57c88b89e9a6616cf16bffa3c",
+      "bytes": 318680,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "3cbfe2f2d28347d9b9d2e4169281024b:4a66e439fe45037bf733c1257d39064e4c9978794ab72e94d4dd558f86b7b038",
+      "artifact_id": "3cbfe2f2d28347d9b9d2e4169281024b",
+      "target": "hr-knowledge/outputs/职代会代表选举办法-2026-10-28.final.provenance.md",
+      "sha256": "4a66e439fe45037bf733c1257d39064e4c9978794ab72e94d4dd558f86b7b038",
+      "bytes": 790,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "1fa8fed28c1a429a9a8da348923acee1:8bc82001b161441c8c8992d5e91e2deb97f34ba72325d7c19a047c0ca65d9a68",
+      "artifact_id": "1fa8fed28c1a429a9a8da348923acee1",
+      "target": "hr-knowledge/outputs/职代会代表选举办法-2026-10-28.final.receipt.md",
+      "sha256": "8bc82001b161441c8c8992d5e91e2deb97f34ba72325d7c19a047c0ca65d9a68",
+      "bytes": 2294,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "38a6e89929614d26a0cda5f5c871e8b4:40ad69e74596f54381146c321140fc5fba1e43657eca87e85cbfdb7e46646f54",
+      "artifact_id": "38a6e89929614d26a0cda5f5c871e8b4",
+      "target": "hr-knowledge/outputs/职代会报备件-2026-10-28.final.docx",
+      "sha256": "40ad69e74596f54381146c321140fc5fba1e43657eca87e85cbfdb7e46646f54",
+      "bytes": 41000,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "c61cea41acd64a91995be6424cb3602c:cfa698627f2c30d8d62f19144c49a9c8e0c2c6c6e8ce48d1b36c374234da6571",
+      "artifact_id": "c61cea41acd64a91995be6424cb3602c",
+      "target": "hr-knowledge/outputs/职代会报备件-2026-10-28.final.pdf",
+      "sha256": "cfa698627f2c30d8d62f19144c49a9c8e0c2c6c6e8ce48d1b36c374234da6571",
+      "bytes": 188623,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "83465ed052234120a2f89cb417740912:53877c235562a2952af7dbbf5436b297d039076d62113d3876087da9322cbd05",
+      "artifact_id": "83465ed052234120a2f89cb417740912",
+      "target": "hr-knowledge/outputs/职代会报备件-2026-10-28.final.provenance.md",
+      "sha256": "53877c235562a2952af7dbbf5436b297d039076d62113d3876087da9322cbd05",
+      "bytes": 715,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "fd4c425dc15649bbb27bc2d01898693c:1b3036f1e141b4259db9319198867f4afb7ffea574bfd3f546db74b0acaa1dad",
+      "artifact_id": "fd4c425dc15649bbb27bc2d01898693c",
+      "target": "hr-knowledge/outputs/职代会报备件-2026-10-28.final.receipt.md",
+      "sha256": "1b3036f1e141b4259db9319198867f4afb7ffea574bfd3f546db74b0acaa1dad",
+      "bytes": 2161,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "0383665e7b3249d9b84e6c6fe525995f:05962da2dd197816b0e8e9be287b448fdb0f5b4851de35973e240315d8e2921a",
+      "artifact_id": "0383665e7b3249d9b84e6c6fe525995f",
+      "target": "hr-knowledge/outputs/职工代表大会拟审议议案清单-2026-10-28.final.docx",
+      "sha256": "05962da2dd197816b0e8e9be287b448fdb0f5b4851de35973e240315d8e2921a",
+      "bytes": 39366,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "27aaa965ff3743b6a9cccaab06d396d7:3becdbf8520c30d8caceec7aca0037f246a91ed2ba50073e5cd0b59e79435553",
+      "artifact_id": "27aaa965ff3743b6a9cccaab06d396d7",
+      "target": "hr-knowledge/outputs/职工代表大会拟审议议案清单-2026-10-28.final.pdf",
+      "sha256": "3becdbf8520c30d8caceec7aca0037f246a91ed2ba50073e5cd0b59e79435553",
+      "bytes": 117345,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "16381e9fc5294555adf9d3c8d6b8d10a:20641d238b38286ab22efaddbc5f2b95bd5719f44c00fe1e0e519387d501bd69",
+      "artifact_id": "16381e9fc5294555adf9d3c8d6b8d10a",
+      "target": "hr-knowledge/outputs/职工代表大会拟审议议案清单-2026-10-28.final.provenance.md",
+      "sha256": "20641d238b38286ab22efaddbc5f2b95bd5719f44c00fe1e0e519387d501bd69",
+      "bytes": 682,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "47acd2a4145443f3941df81aac7cd8bb:9d0ed67ea5ef55a38bb6245dc8c4579b210dc1302f6c80c8dbdfa52e5e7cefc1",
+      "artifact_id": "47acd2a4145443f3941df81aac7cd8bb",
+      "target": "hr-knowledge/outputs/职工代表大会拟审议议案清单-2026-10-28.final.receipt.md",
+      "sha256": "9d0ed67ea5ef55a38bb6245dc8c4579b210dc1302f6c80c8dbdfa52e5e7cefc1",
+      "bytes": 1734,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "a4fcac7cd6d345e38aec0af2be4431b4:5efb1568685708d76447c32f7505bc1058f577a2a1c0fac4eb71553dbb4980e5",
+      "artifact_id": "a4fcac7cd6d345e38aec0af2be4431b4",
+      "target": "hr-knowledge/outputs/荐读摘句-2026-11-06.provenance.md",
+      "sha256": "5efb1568685708d76447c32f7505bc1058f577a2a1c0fac4eb71553dbb4980e5",
+      "bytes": 5776,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "86dfafbc0eed42f38b21b81987793e8e:a079dec0238f27e56ba2e4594334e4ce84ff54738b12b4dfb606f749b2c8603a",
+      "artifact_id": "86dfafbc0eed42f38b21b81987793e8e",
+      "target": "hr-knowledge/outputs/荐读摘句-2026-11-09.provenance.md",
+      "sha256": "a079dec0238f27e56ba2e4594334e4ce84ff54738b12b4dfb606f749b2c8603a",
+      "bytes": 3643,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "de860fcf0fd2437d96f891d136ace696:646078a5594899753e1a54a106d94ec9ecdbfd6aafc8fa2b03dbfbfa1218d6b2",
+      "artifact_id": "de860fcf0fd2437d96f891d136ace696",
+      "target": "hr-knowledge/outputs/认知上行-2026-11-09.provenance.md",
+      "sha256": "646078a5594899753e1a54a106d94ec9ecdbfd6aafc8fa2b03dbfbfa1218d6b2",
+      "bytes": 2776,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "30f9796cec1b4ad891078ab849d4782e:4304ab2d0e318b655c1660bf75b4760119e43c95414382701b50d952229902f4",
+      "artifact_id": "30f9796cec1b4ad891078ab849d4782e",
+      "target": "hr-knowledge/outputs/附件五-结构比例测算表-2026-10-28.final.docx",
+      "sha256": "4304ab2d0e318b655c1660bf75b4760119e43c95414382701b50d952229902f4",
+      "bytes": 40878,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "7cce9c4d6fc9458ab856c0424229d647:3f058e2c597de67944dc1692578de9a1f3f9cd24465c1a56c045da9e18e716a6",
+      "artifact_id": "7cce9c4d6fc9458ab856c0424229d647",
+      "target": "hr-knowledge/outputs/附件五-结构比例测算表-2026-10-28.final.pdf",
+      "sha256": "3f058e2c597de67944dc1692578de9a1f3f9cd24465c1a56c045da9e18e716a6",
+      "bytes": 216659,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "0bf9089a00fb4778b1ebe9b0cf7ed454:e09b7b6eea26caf2ef70b2c58083e07bf013dd6ec4298004494600e7211d2347",
+      "artifact_id": "0bf9089a00fb4778b1ebe9b0cf7ed454",
+      "target": "hr-knowledge/outputs/附件五-结构比例测算表-2026-10-28.final.receipt.md",
+      "sha256": "e09b7b6eea26caf2ef70b2c58083e07bf013dd6ec4298004494600e7211d2347",
+      "bytes": 4407,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "a6cd3381b8e7441ba1f2870d1a5e5f73:80d298036568112a9856d0a0deb14065c9c9f4a06e898975e9a805b31075eced",
+      "artifact_id": "a6cd3381b8e7441ba1f2870d1a5e5f73",
+      "target": "hr-knowledge/outputs/附件五-结构比例测算表-2026-10-28.provenance.md",
+      "sha256": "80d298036568112a9856d0a0deb14065c9c9f4a06e898975e9a805b31075eced",
+      "bytes": 1535,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "29c1acf437464c5da47844eacd1923ef:caa960936cbdb73c98bdb33f1efe1579b8330606ad54995ca5806b8d2e493219",
+      "artifact_id": "29c1acf437464c5da47844eacd1923ef",
+      "target": "hr-knowledge/outputs/附件六-职工总数口径说明-2026-10-28.final.docx",
+      "sha256": "caa960936cbdb73c98bdb33f1efe1579b8330606ad54995ca5806b8d2e493219",
+      "bytes": 38783,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "7769a546675c4a319ae0e399153f4cf0:117b1b6f04321edd2f21ced9ae42e212d9ba80e76c34af54d65e163c1ebfdd82",
+      "artifact_id": "7769a546675c4a319ae0e399153f4cf0",
+      "target": "hr-knowledge/outputs/附件六-职工总数口径说明-2026-10-28.final.pdf",
+      "sha256": "117b1b6f04321edd2f21ced9ae42e212d9ba80e76c34af54d65e163c1ebfdd82",
+      "bytes": 89759,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "85c319d78cdd47e59bd5b6cacbb0ff0f:d4c1dbc7805434c71e40a2f5bbee9cdac8f2da7254feabef22bf621f0d0c9765",
+      "artifact_id": "85c319d78cdd47e59bd5b6cacbb0ff0f",
+      "target": "hr-knowledge/outputs/附件六-职工总数口径说明-2026-10-28.provenance.md",
+      "sha256": "d4c1dbc7805434c71e40a2f5bbee9cdac8f2da7254feabef22bf621f0d0c9765",
+      "bytes": 2141,
+      "origin_status": "already_in_knowledge"
+    },
+    {
+      "key": "0c036f44b08e477b819b8baddeea35c3:3171cbc1039d457b826eec7f17c321cf371e1081f2b23cc3b9c6caff3620b17f",
+      "artifact_id": "0c036f44b08e477b819b8baddeea35c3",
+      "target": "hr-knowledge/outputs/集团岗位MPO分类统览表-20261112-v2.provenance.md",
+      "sha256": "3171cbc1039d457b826eec7f17c321cf371e1081f2b23cc3b9c6caff3620b17f",
+      "bytes": 8844,
+      "origin_status": "already_in_knowledge"
+    }
+  ]
+}
